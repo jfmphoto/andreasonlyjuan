@@ -19,9 +19,6 @@ Magdalena, Colombia
 
 [https://www.hilton.com/en/hotels/smrcnhh-hilton-santa-marta/](https://www.hilton.com/en/hotels/smrcnhh-hilton-santa-marta/) <br> <br>
 
-
-<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJtY2ZyMBZ9I4R-Vo_ZU1rPJ4&key=AIzaSyAJecsoUZfujsjRvK0rp4rYDJIOBG68DHs"></iframe>
-
 ## Hotels in Bello Horizonte
 
 ::: {.columns }

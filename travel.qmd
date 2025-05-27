@@ -42,14 +42,7 @@ Magdalena, Colombia
 
 ![](images/hilton-exterior.jpg
 ){width=100%}
-<!-- 
-:::
 
-::: {.column width="50%"}
-
-<iframe width="100%" height="300" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJtY2ZyMBZ9I4R-Vo_ZU1rPJ4&key=AIzaSyAJecsoUZfujsjRvK0rp4rYDJIOBG68DHs"></iframe>
-
-::: -->
 
 :::
 
