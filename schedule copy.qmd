@@ -1,0 +1,73 @@
+---
+title: "Schedule"
+title-block-banner: false
+format: 
+  html:
+    include-in-header: |
+        <script>
+            function sendThemeToIframe() {
+            let theme = document.documentElement.getAttribute("data-theme");
+            let iframe = document.getElementById("reveal-iframe");
+            if (iframe && iframe.contentWindow) {
+                iframe.contentWindow.postMessage({ theme: theme }, "*");
+            }
+            }
+
+            // Send theme when the page loads
+            document.addEventListener("DOMContentLoaded", sendThemeToIframe);
+
+            // Detect theme changes and update iframe
+            new MutationObserver(sendThemeToIframe).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+        </script>
+
+---
+
+# SCHEDULE 
+::: columns
+::: {.column width="40%"}
+
+<iframe id="reveal-iframe" src="revel1.html" width="100%" height="600px"  style="border: none;"></iframe>
+
+::: 
+::: {.column width="60%"}
+
+## Welcome Party
+
+Thursday, 4th of December, 2025, 7:00 PM 
+
+**[Cinto Cantina Caribe](https://smartlink2.metricool.com/public/smartlink/cinto-cantina)**
+
+Cl. 18 #3-18, Comuna 2, Santa Marta, Magdalena, Colombia
+
+Tropical Semi-Formalwear
+
+## Ceremony
+
+Friday, 5th of December, 2025, 4:PM PM
+
+**[Casa Kapikua](https://kapikua.com.co/)**
+
+Km 20 vía Santa Marta a, CiénagaSanta Marta, 
+
+Santa Marta, Magdalena, Colombia
+
+Tropical Formalwear
+
+
+<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ_XBuUP1X9I4RQ-Y3giVfJqc&key=AIzaSyAJecsoUZfujsjRvK0rp4rYDJIOBG68DHs"></iframe>
+
+
+
+
+
+## Unwind Event
+
+Saturday, 6th of December, 2025 1:00 PM 
+
+Playa playa Beach Club
+
+Very Casualwear 
+
+:::
+:::

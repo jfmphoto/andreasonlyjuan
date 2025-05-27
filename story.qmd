@@ -1,0 +1,85 @@
+---
+title: "Our Story"
+title-block-banner: false
+format: 
+  html:
+    include-in-header: |
+      <script>
+        function sendThemeToIframe() {
+          let theme = document.documentElement.getAttribute("data-theme");
+          let iframe = document.getElementById("reveal-iframe");
+          if (iframe && iframe.contentWindow) {
+            iframe.contentWindow.postMessage({ theme: theme }, "*");
+          }
+        }
+
+        // Send theme when the page loads
+        document.addEventListener("DOMContentLoaded", sendThemeToIframe);
+
+        // Detect theme changes and update iframe
+        new MutationObserver(sendThemeToIframe).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+      </script>
+---
+
+![](images/hands.jpg "La Tayrona"){#home .full-width-image}
+
+# SO WE <BR>MET IN <BR>CHEMISTRY.{.splash-title}
+
+#
+
+<div class="bleed-section bg-party text-center">
+
+
+::: columns
+
+::: {.column width="40%"}
+
+
+<iframe id="reveal-iframe" src="revel1.html" width="100%" height="650px"  style="border: none;"></iframe>
+
+
+:::
+
+::: {.column width="60%"}
+
+#
+
+<div class="story">
+<br><br>
+We were lab partners in high school chemistry and became friends instantly. Despite time and distance, we kept in touch as adults. The signs were always there, like watching the sunrise in South Beach New Year's Eve 2018, that December stroll in Central Park, or that night in the party bus riding through Manhattan.
+<br><br>
+It wasn’t until Andrea moved to New York that our love story unfolded. Twenty years since that fateful class, it still feels like we’re those two kids in chemistry. Now, just in love and ready for forever. 
+
+</div>
+
+
+:::
+ 
+:::
+
+ 
+</div>
+
+
+:::{.text-center}
+<br>
+<br>
+
+[Our Story](story.html){.theme-button} 
+<!-- [Schedule](story.html){.theme-button}  -->
+[Travel](story.html){.theme-button}
+[FAQ](faq.html){.theme-button}
+[RSVP](story.html){.theme-button} 
+
+
+#### Contact:
+
+If you have any questions, feel free to reach out to us!
+
+**Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
+**Event planner, Karol:** +57 123-456-7890
+
+:::
+
+
+

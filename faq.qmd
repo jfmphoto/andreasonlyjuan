@@ -1,0 +1,254 @@
+---
+title: "A&J FAW"
+title-block-banner: false
+format: html
+---
+
+![](images/faq.jpg "La Tayrona"){#home .full-width-image}
+
+# FREQUENTLY  <br> ASKED <br> QUESTIONS {.splash-title}
+
+#
+
+
+
+<div class="bleed-section bg-party pads">
+
+<br>
+<br>
+
+::: {.accordion}
+
+### What is the dress code for the wedding?
+
+ 
+*The dress code is beach formal. Consider light, airy fabrics suitable for warm, tropical climate and a celebration by the beach.*
+ 
+
+:::
+
+<br> 
+
+::: {.accordion}
+
+### What days should I fly in and out for the celebration?
+
+ 
+Our big day will be on Friday, December 5th, and an optional event on Thursday, so we recommend guests fly in at minimum Wednesday, December 3rd.
+ <br>
+We will have an optional event on Saturday, so it would be ideal for guests to stay at least until Sunday, December 7th.
+
+ 
+
+:::
+
+<br>
+
+
+::: {.accordion}
+
+### What is the itinerary for the weekend?
+
+ 
+We are coordinating all the details for the weekend and will have final details soon. To help get your planning started, please know we will be hosting a welcome event the evening of December 4th, followed by our wedding the next day and an optional post wedding event on Saturday.
+ 
+
+:::
+
+<br>
+
+::: {.accordion}
+
+### What airport should I fly into? Are there other options?
+
+
+ 
+Santa Marta’s international airport is Simón Bolívar International Airport (SMR).
+
+There aren’t any direct flights from the US, but there are one stop flights departing from the Miami/Ft. Lauderdale or New York area. 
+
+Alternatively, guests can fly directly to Barranquilla and take a two hour shuttle from Ernesto Cortissoz International Airport (BAQ) to Santa Marta (SMR). The public shuttle can be around $8-$15 USD per person.
+ 
+
+:::
+
+<br>
+
+::: {.accordion}
+
+### How do I get from the airport to the hotel?
+
+ 
+Uber and local taxis are accessible in Santa Marta, but we are still coordinating the details around general transport so will provide an update soon. 
+ 
+
+
+
+:::
+<br>
+
+::: {.accordion}
+
+### Is Santa Marta generally safe?
+
+
+ 
+Yes! Like any destination, we recommend standard precautions – but Santa Marta is a lovely coastal town known for its relaxed vibe, friendly locals, and beautiful landscapes. 
+
+As long as you stay aware of your surroundings, you’ll be able to enjoy all the beauty the city has to offer.
+
+ 
+
+:::
+
+<br>
+
+::: {.accordion}
+
+### Do I need a visa to visit Colombia? Any passport requirements?
+
+
+ 
+Most visitors from the U.S., Canada, and the EU don’t need a visa—just a valid passport. Please ensure your passport is not set to expire less than six months post December 2025.
+
+ 
+
+:::
+
+<br>
+
+::: {.accordion}
+
+### Is uber available in Santa Marta?
+
+
+ 
+Yes, uber is available in Santa Marta.
+
+ 
+
+:::
+
+<br>
+
+::: {.accordion}
+
+### What areas of town should we look into?
+
+ 
+
+The wedding party will be staying in the Bello Horizonte area. It is a quieter beachfront area with beautiful views, plenty of hotel options, and a more peaceful vibe. It is also ~10-15 minutes away from the airport.
+<br><br>
+Other areas - 
+Centro Histórico neighborhood (~30 minutes from the airport). It’s busier and farther from the beach, but walkable. 
+
+El Rodadero is another popular area (~25 minutes from the airport). It is lively and full of restaurants and nightlife although it can be very touristy. 
+
+You really can’t go wrong in Santa Marta, it all depends on what you’re looking for.
+
+ 
+
+:::
+
+<br>
+
+::: {.accordion}
+
+### Where is the wedding party staying? Will there be a room block or group code?
+
+ 
+The wedding party will be staying at the Hilton in Santa Marta’s Bello Horizonte area. We will follow-up with more details around a potential room block or group rate soon. 
+
+ 
+
+:::
+
+<br>
+
+::: {.accordion}
+
+### What are some fun things to do in Santa Marta? 
+
+ 
+Excursions - 
+
+Tayrona National Natural Park - one of Colombia’s most breathtaking national parks with lucious, tropical hikes and stunning beaches
+
+Minca - a tiny town tucked into the Sierra Nevada mountains. Visit eco-lodges, tour coffee farms, and swim in the Pozo Azul waterfall
+
+Taganga - bohemian and budget friendly side of town that offers scuba diving and snorkeling excursions 
+
+ 
+
+:::
+
+<br>
+
+::: {.accordion}
+
+### What’s the weather like in December?
+
+ 
+December in Santa Marta is one of the best times to visit - warm and sunny! Daytime highs range between 85–90°F (29–32°C) with nighttime lows between 73–77°F (23–25°C). 
+
+Keep in mind that Santa Marta is in the Caribbean coast so you can’t escape the humidity but December is generally less humid than other months.
+
+Make sure to bring your sunscreen and light layers for ocean breezes at night!
+
+ 
+
+:::
+
+<br>
+
+::: {.accordion}
+
+### What is the local currency in Colombia? 
+
+ 
+The local currency in Colombia is the Colombian Peso (COP). Credit/debit cards are widely accepted and ATMs are available around town. Cash is useful for taxi, tips, markets, and street vendors.
+ 
+
+:::
+
+<br><br>
+
+ </div>
+ 
+
+
+
+:::{.text-center}
+<br>
+<br>
+
+[Our Story](story.html){.theme-button} 
+<!-- [Schedule](story.html){.theme-button}  -->
+[Travel](travel.html){.theme-button}
+[FAQ](faq.html){.theme-button}
+[RSVP](story.html){.theme-button} 
+
+
+#### Contact:
+
+If you have any questions, feel free to reach out to us!
+
+**Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
+**Event planner, Karol:** +57 123-456-7890
+
+:::
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const accordions = document.querySelectorAll('.accordion');
+
+  accordions.forEach((accordion) => {
+    const header = accordion.querySelector('h3');
+    header.addEventListener('click', function() {
+      accordion.classList.toggle('open');
+    });
+  });
+});
+</script>
+

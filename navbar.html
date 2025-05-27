@@ -1,0 +1,51 @@
+<!-- Navbar with Theme Toggle -->
+<nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top" data-bs-theme="auto">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Química</a>
+
+    <!-- Theme Toggle Button -->
+    <button id="theme-toggle" class="btn btn-outline-secondary">🌙 Dark Mode</button>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" 
+      aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarContent">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Features</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Pricing</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- JavaScript for Theme Toggle -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggleButton = document.getElementById("theme-toggle");
+    const root = document.documentElement;
+
+    function setTheme(theme) {
+      root.setAttribute("data-bs-theme", theme);
+      localStorage.setItem("theme", theme);
+      toggleButton.textContent = theme === "dark" ? "☀️ Light Mode" : "🌙 Dark Mode";
+    }
+
+    toggleButton.addEventListener("click", () => {
+      const currentTheme = root.getAttribute("data-bs-theme") || "light";
+      setTheme(currentTheme === "light" ? "dark" : "light");
+    });
+
+    // Load theme from local storage
+    const savedTheme = localStorage.getItem("theme") || "light";
+    setTheme(savedTheme);
+  });
+</script>
+
+<!-- Prevent content from being hidden behind the fixed navbar -->
+<style>
+  body { padding-top: 56px; }
+</style>

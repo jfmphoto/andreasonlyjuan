@@ -1,0 +1,115 @@
+---
+title: "Travel Information"
+title-block-banner: false
+format: html
+---
+
+# Travel and Stay in Santa Marta
+
+Each section is accessible via the navigation bar at the top. Feel free to scroll or click the links to jump directly to the relevant section.
+
+# Hotels
+
+
+### The Hilton Santa Marta
+
+Cra. 2 #114 78 Sector, <br>
+Pozos Colorados, Santa Marta, <br>
+Magdalena, Colombia
+
+[https://www.hilton.com/en/hotels/smrcnhh-hilton-santa-marta/](https://www.hilton.com/en/hotels/smrcnhh-hilton-santa-marta/) <br> <br>
+
+
+<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJtY2ZyMBZ9I4R-Vo_ZU1rPJ4&key=AIzaSyAJecsoUZfujsjRvK0rp4rYDJIOBG68DHs"></iframe>
+
+## Hotels in Bello Horizonte
+
+::: {.columns }
+::: {.column width="33%" }
+
+### Hotel Mercure
+
+![](images/AJ_water.jpg)
+
+
+Calle 115 NO 2 39, Bello Horizonte 
+
+Tel. 035 4368484
+
+[Hotels](story.html){.theme-button}
+
+:::
+
+::: {.column width="33%"}
+
+### Hotel Zuana Beach Resort 
+
+![](images/AJ_water.jpg)
+
+Cra. 2 #6-80, Bello Horizonte 
+
+Tel. 035 4380011
+    
+[Our Story](story.html){.theme-button}
+
+:::
+
+::: {.column width="33%"}
+
+### Hotel Estelar Santamar
+
+![](images/AJ_water.jpg)
+
+Kilometro 8 Sector de Pozos Colorados 
+
+Tel. 035 4328181
+
+[Our Story](story.html){.theme-button}
+ 
+:::
+:::
+
+::: {.columns}
+::: {.column width="33%"}
+
+### Irotama Resort By Karisma 
+
+![](images/AJ_water.jpg)
+
+Km. 14 vía a Ciénaga, Santa Marta
+
+Tel. 035 4380600
+
+[Our Story](story.html){.theme-button}
+
+:::
+::: {.column width="33%"}
+
+### Santorini – Regency
+
+![](images/AJ_water.jpg)
+
+Carrera 2 #4-49, Bello Horizonte
+
+Tel. 035 4329400
+
+[Our Story](story.html){.theme-button}
+
+:::
+::: {.column width="33%"}
+
+![](images/AJ_water.jpg)
+
+[Our Story](story.html){.theme-button}
+ 
+:::
+:::
+
+## Visas for Colombia
+
+For Colombian Ministry of Foreign Affairs Visas: [Visas Information](https://www.cancilleria.gov.co/tramites_servicios/visa/abece-visas)
+
+Check if you need a visa: [List of Countries](https://www.cancilleria.gov.co/tramites_servicios/visa/requisitos)
+
+If you have a passport issued by the States or territories on List A , B or C , or those listed as Special Visa Exemption Cases, you may enter, stay in and leave Colombia, without a visa, for short-stay activities (including business, leisure, tourism or cultural interest), as long as these activities do not generate payments for services, salary or wages in Colombia. (Resolution 5488 of June 22, 2022 and Resolution 3717 of May 23, 2023).
+

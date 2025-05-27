@@ -1,0 +1,189 @@
+---
+title: "Schedule"
+title-block-banner: false
+format: 
+  html:
+    include-in-header: |
+        <script>
+            function sendThemeToIframe() {
+            let theme = document.documentElement.getAttribute("data-theme");
+            let iframe = document.getElementById("reveal-iframe");
+            if (iframe && iframe.contentWindow) {
+                iframe.contentWindow.postMessage({ theme: theme }, "*");
+            }
+            }
+
+            // Send theme when the page loads
+            document.addEventListener("DOMContentLoaded", sendThemeToIframe);
+
+            // Detect theme changes and update iframe
+            new MutationObserver(sendThemeToIframe).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+        </script>
+
+---
+
+![](images/layingsand.jpg "La Tayrona"){#home .full-width-image}
+
+<br>
+<br>
+
+# OUR WEDDING <br> WEEKEND.{.splash-title}
+<br>
+
+#
+
+<!-- #
+<div class="bleed-section bg-party text-center">
+
+
+::: columns
+
+::: {.column width="40%"}
+
+
+Our detailed Itinerary will be available soon. For now, please know we are planning a weekend full of events --
+
+### Welcome Party
+
+Thursday, 4th of December, 2025 
+
+
+
+### Our big day
+
+Friday, 5th of December, 2025, 4:00PM 
+
+
+### Weekend send-off event (optional)
+
+Saturday, 6th of December, 2025
+
+
+::: 
+
+::: {.column width="50%"  }
+ 
+
+<div class="center-flex no-bottom-border">
+  ![](images/monogram1.png){width=50% max-height=70%}
+</div>
+
+:::
+:::
+
+
+</div>  -->
+
+
+
+<div class="bleed-section bg-party text-center">
+<br>
+<br>
+Our detailed itinerary will be available so soon. <br>
+For now, please know we are planning a weekend full of events:
+
+
+<!-- ## <br><span class="highlight-heading">*OUR WEDDING WEEKEND*</span> {.no-anchor .text-center .no-margin-top} -->
+
+
+
+:::: {.columns .text-center .dates}
+
+::: {.column width="30%"}
+<div class="dates">
+
+### December 4th 
+
+welcome evening reception 
+</div>
+
+
+:::
+
+::: {.column width="30%"}
+<div class="dates">
+
+### December 5th  
+
+our wedding day
+</div>
+
+
+:::
+
+::: {.column width="30%"}
+<div class="dates">
+
+### December 6th  
+
+happily ever after-party
+</div>
+
+
+:::
+
+::::
+<!-- 
+<div class="pt-5"><br>
+If possible, we would recommend looking into flying in Thursday and flying out Sunday (at the earliest). 
+
+We’d also encourage staying past Sunday at your leisure so you can explore everything this beautiful region has to offer. 
+
+Check out our FAQs for more insight into traveling in Santa Marta and Colombia in general.
+</div> -->
+
+
+<br>
+<br>
+
+
+
+
+</div>
+
+<div class="sneak-peek">
+
+
+:::: {.columns}
+
+
+
+::: {.column width="100%"}
+
+
+<div class="photo-center">
+
+![](images/mainslide.jpg){width="25%"}
+![](images/AJ_water2.jpg){width="30%"}
+![](images/mainslide2.jpg){width="25%"}
+
+</div>
+
+:::
+:::: 
+
+
+</div>
+
+
+
+
+:::{.text-center}
+<br>
+<br>
+
+[Our Story](story.html){.theme-button} 
+<!-- [Schedule](story.html){.theme-button}  -->
+[Travel](story.html){.theme-button}
+[FAQ](faq.html){.theme-button}
+[RSVP](story.html){.theme-button} 
+
+
+#### Contact:
+
+If you have any questions, feel free to reach out to us!
+
+**Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
+**Event planner, Karol:** +57 123-456-7890
+
+:::

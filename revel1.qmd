@@ -1,0 +1,43 @@
+---
+format: 
+  revealjs:
+    background-transition: fade
+    controls: true       # Keep navigation arrows
+    progress: false      # Hide progress bar (optional)
+    slide-number: false  # Hide slide numbers
+    overview: false      # Disable the overview menu (hamburger)
+    auto-slide: 5000     # Auto-advance every 5 seconds
+    auto-slide-stoppable: false  # Prevent stopping the auto-slide manually
+    loop: true
+    transition-speed: slow
+    transition: fade
+    
+    
+
+---
+
+
+#  {.center background-image="images/gallery-11.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-1.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-2.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-3.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-4.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-5.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-6.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-7.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-8.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-9.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-10.jpg" background-size="contain"}
+
+
+

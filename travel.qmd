@@ -1,0 +1,90 @@
+---
+title: "Travel Information"
+title-block-banner: false
+format: html
+---
+
+![](images/tayrona.jpg "La Tayrona"){#home .full-width-image}
+
+# STAYING IN <br> SANTA MARTA.{.splash-title}
+
+#
+
+<div class="bleed-section bg-party">
+
+::: columns
+
+::: {.column width="50%"}
+
+<br> 
+
+<div class="story">
+
+The wedding party will be staying at the Hilton Santa Marta in Pozos Colorados. More details to follow.
+
+</div>
+
+#### <br><span class="highlight-heading">*[Hilton Santa Marta](https://www.hilton.com/en/hotels/smrcnhh-hilton-santa-marta/)*</span> {.no-anchor .no-margin-top}
+
+<div class="dates">
+
+Carretera 2 No.114, 78 Sector, KM14, <br> 
+Pozos Colorados, Santa Marta, <br>
+Magdalena, Colombia
+
+</div>
+:::
+::: {.column width="50%"}
+
+::: {.columns}
+
+::: {.column width="100%"}
+
+![](images/hilton-exterior.jpg
+){width=100%}
+<!-- 
+:::
+
+::: {.column width="50%"}
+
+<iframe width="100%" height="300" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJtY2ZyMBZ9I4R-Vo_ZU1rPJ4&key=AIzaSyAJecsoUZfujsjRvK0rp4rYDJIOBG68DHs"></iframe>
+
+::: -->
+
+:::
+
+:::
+:::
+:::
+
+
+<br>
+<br>
+
+</div> 
+
+
+
+
+:::{.text-center}
+<br>
+<br>
+
+[Our Story](story.html){.theme-button} 
+<!-- [Schedule](story.html){.theme-button}  -->
+[Travel](story.html){.theme-button}
+[FAQ](faq.html){.theme-button}
+[RSVP](story.html){.theme-button} 
+
+
+#### Contact:
+
+If you have any questions, feel free to reach out to us!
+
+**Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
+**Event planner, Karol:** +57 123-456-7890
+
+:::
+
+
+    

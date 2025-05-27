@@ -1,0 +1,207 @@
+---
+title: "Andrea & Juan's Wedding | La boda de Andrea & Juan"
+title-block-banner: false
+format: html
+---
+
+![](images/banner1.jpg "La Tayrona"){#home .full-width-image}
+
+# WE DO. <br>IN SANTA <br>MARTA.{.splash-title}
+
+#
+
+<div class="bleed-section-img">
+
+![](images/Indexbanner2.jpg)
+
+</div>
+
+<div id="welcome-modal" class="modal-overlay">
+  <div class="modal-content bg-party">
+
+<button class="close-modal">x</button>
+<div class="text-modal">
+### Welcome to our Wedding Hub! {.text-left}
+<br>
+Stay tuned for updates of our weekend celebration. We can’t wait to celebrate with you in Santa Marta.
+<br><br>
+</div>
+
+<span class="notera-line">- Andrea & Juan</span>
+
+
+
+  </div>
+</div>
+
+
+
+<div class="bleed-section bg-party text-center">
+
+<div class="pt-4"><br>
+HERE'S A SNEAK PEEK OF
+</div>
+
+## <br><span class="highlight-heading">*OUR WEDDING WEEKEND*</span> {.no-anchor .text-center .no-margin-top}
+
+
+
+:::: {.columns .text-center .dates}
+
+::: {.column width="30%"}
+<div class="dates">
+
+### December 4th 
+
+welcome evening reception 
+</div>
+
+
+:::
+
+::: {.column width="30%"}
+<div class="dates">
+
+### December 5th  
+
+our wedding day
+</div>
+
+
+:::
+
+::: {.column width="30%"}
+<div class="dates">
+
+### December 6th  
+
+happily ever after-party
+</div>
+
+
+:::
+
+<br>
+<br>
+
+::::
+
+
+</div>
+
+<div class="sneak-peek">
+
+
+:::: {.columns}
+
+
+
+::: {.column width="100%"}
+
+
+<div class="photo-center">
+
+![](images/mainslide.jpg){width="25%"}
+![](images/AJ_water2.jpg){width="30%"}
+![](images/mainslide2.jpg){width="25%"}
+
+</div>
+
+:::
+:::: 
+
+
+</div>
+
+
+
+<div class="countdown-container">
+
+![](images/CK_banner.jpg "A&J"){#home .full-width-image}
+
+<div id="countdown" class="countdown-overlay"></div>
+
+</div>
+
+:::{.text-center}
+<br>
+<br>
+
+[Our Story](story.html){.theme-button} 
+<!-- [Schedule](story.html){.theme-button}  -->
+[Travel](story.html){.theme-button}
+[FAQ](faq.html){.theme-button}
+[RSVP](story.html){.theme-button} 
+
+
+#### Contact:
+
+If you have any questions, feel free to reach out to us!
+
+**Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
+**Event planner, Karol:** +57 123-456-7890
+
+:::
+
+<script>
+  // Set your target date and time here
+  const targetDate = new Date("2025-12-05T16:00:00"); // Adjust date/time
+
+
+  function updateCountdown() {
+    const now = new Date();
+    const diff = targetDate - now;
+
+    if (diff <= 0) {
+      document.getElementById("countdown").innerHTML = "It's time!";
+      return;
+    }
+
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+    const minutes = Math.floor((diff / (1000 * 60)) % 60);
+    const seconds = Math.floor((diff / 1000) % 60);
+
+    document.getElementById("countdown").innerHTML = `
+      <div style="font-family: 'Didot LT Std'; margin-bottom: 2.5em; font-size: 0.3em;">LET THE COUNTDOWN BEGIN</div>
+      <div class="countdown-grid">
+        <div>${days}</div>
+        <div>${hours}</div>
+        <div>${minutes}</div>
+        <div>${seconds}</div>
+        <div class="label">DAYS</div>
+        <div class="label">HOURS</div>
+        <div class="label">MINUTES</div>
+        <div class="label">SECONDS</div>
+      </div>
+    `;
+  }
+
+  updateCountdown();
+  setInterval(updateCountdown, 1000);
+</script>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const modal = document.getElementById("welcome-modal");
+    const closeBtn = modal.querySelector(".close-modal");
+
+    // Check if the modal has already been shown
+    const modalShown = localStorage.getItem("modalShown");
+
+    if (!modalShown) {
+      // If not shown before, display it
+      modal.classList.add("active");
+
+      // When the user closes the modal, mark it as shown
+      closeBtn.addEventListener("click", function () {
+        modal.classList.remove("active");
+        localStorage.setItem("modalShown", "true");
+      });
+    } else {
+      // Modal already shown previously, do not show again
+      modal.classList.remove("active");
+    }
+  });
+</script>

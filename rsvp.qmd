@@ -1,0 +1,15 @@
+---
+title: "RSVP"
+title-block-banner: false
+format: html
+---
+
+## RSVP {#rsvp}
+
+We’d love to know if you can join us for this special day! Please RSVP by 1 November 2025.
+
+Click the button below to RSVP:
+
+::: text-center
+<a href="https://example.com" class="btn btn-outline-primary">Primary Button Link</a> <a href="https://example.com" class="btn btn-outline-secondary">Secondary Button Link</a> <a href="https://example.com" class="btn btn-outline-success">Success Button Link</a> <a href="https://example.com" class="btn btn-outline-info">Info Button Link</a> <a href="https://example.com" class="btn btn-outline-warning">Warning Button Link</a> <a href="https://example.com" class="btn btn-outline-danger">Danger Button Link</a> <a href="https://example.com" class="btn btn-outline-light">Light Button Link</a> <a href="https://example.com" class="btn btn-outline-dark">Dark Button Link</a>
+:::

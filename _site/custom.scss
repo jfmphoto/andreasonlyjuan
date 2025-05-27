@@ -1,0 +1,168 @@
+/*-- scss:defaults --*/
+
+:root {
+  --button-bg: black;
+  --button-text: white;
+  --button-border: black;
+}
+
+$red: #ff0000;
+$white: #ffffff !default;
+$black: #000000 !default;
+$light-gray: #f8f9fa !default;
+$dark-gray: #212529 !default;
+$font-family-base: "Open Sans", sans-serif !default;
+
+/*-- scss:rules --*/
+
+body {
+  background-color: $white;
+  color: black;
+}
+
+
+a {
+  color: #8B5E3C; // Light tan accent
+  text-decoration: none;
+  border-bottom: 2px solid rgba(139, 94, 60, 0.4);
+  transition: all 0.3s ease;
+
+  &:hover {
+    color: #A47450; // Slightly darker tan
+    border-bottom: 2px solid #A47450;
+  }
+}
+
+.navbar {
+  border-color: black;
+  background-color: black;
+}
+.navbar *{
+  color: white;
+  fill: white;
+  border-color: white;
+
+}
+
+.level1 {
+  margin: 0 15%; // Default: Centers on larger screens
+
+  
+
+  @media (max-width: 975px) { // Tablets & Large Phones
+  
+    margin: 0 5%;
+  }
+
+  @media (max-width: 480px) { // Phones
+   
+    margin: 0px; // Fixed margin for very small screens
+  }
+}
+
+
+.column  {
+  padding: 10px;
+}
+
+/* Custom Grid Layout */
+.quarto-grid {
+  display: grid;
+  grid-template-columns: 100fr 2fr 100fr; /* Adjust column sizes */
+  gap: 0rem; /* Optional: Adds space between columns */
+}
+
+
+/* Add border around navbar links */
+.navbar-nav .nav-link {
+  border: 2px solid #333; /* Border color */
+  padding: 3px 3px; /* Adjust padding */
+  border-radius: 3px; /* Optional: rounded corners */
+  margin: 5px; /* Space between links */
+  transition: all 0.3s ease-in-out; /* Smooth hover effect */
+}
+
+/* Hover effect */
+.navbar-nav .nav-link:hover {
+  background-color: #f0f0f0; /* Light gray hover effect */
+  border-color: #555; /* Darker border on hover */
+
+}
+
+.menu-text:hover{
+  color: black;
+}
+
+
+.quarto-title-banner{
+  display: none;
+}
+
+.reveal-viewport {
+  background-color: transparent;
+}
+
+.reveal section img {
+  height: 100vh;  /* Full viewport height */
+  width: auto;     /* Maintain aspect ratio */
+  object-fit: cover; /* Ensure it covers */
+}
+
+.reveal section img {
+  height: 100vh;   /* Full viewport height */
+  width: auto;     /* Maintain aspect ratio */
+  object-fit: cover; /* Ensure it covers */
+}
+
+
+.reveal .slide-menu-button {
+  display: none;
+}
+
+// .reveal .controls button{
+//     color: black;  /* Changes arrow color */
+//     opacity: 1;  /* Ensures full visibility */
+// }
+
+
+
+.reveal .controls button{
+  color: rgb(214, 170, 119);
+}
+
+
+#title-block-header {
+  display: none;
+
+}
+
+/* Apply Button Styling */
+.theme-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: var(--button-bg);
+  color: var(--button-text);
+  text-decoration: none;
+  border: 2px solid var(--button-border);
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: center;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.theme-button:hover {
+  background-color: var(--button-text);
+  color: var(--button-bg);
+}
+
+.full-width-image img {
+  width: 100vw !important; /* 100% of the viewport width */
+  max-width: 100vw !important; /* Prevents scaling issues */
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  display: block;
+}
+
+#quarto-content {
+  grid-template-columns: [screen-start] 0px [body-content-start] auto [body-content-end] 0px [screen-end];
+}
