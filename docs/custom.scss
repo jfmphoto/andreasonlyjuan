@@ -273,27 +273,32 @@ a {
 }
 
 .reveal-viewport {
-  background-color: transparent;
+   background-color: rgb(36, 36, 36) !important;
+  background: rgb(36, 36, 36) !important; 
 }
 
 .reveal section img {
   height: 100vh;  /* Full viewport height */
   width: auto;     /* Maintain aspect ratio */
   object-fit: cover; /* Ensure it covers */
-  background-color: transparent;
+   background-color: rgb(36, 36, 36) !important;
+  background: rgb(36, 36, 36) !important;
+   
 }
 
 .reveal section img {
   height: 100vh;   /* Full viewport height */
   width: auto;     /* Maintain aspect ratio */
   object-fit: cover; /* Ensure it covers */
-  background-color: transparent;
+  background-color: rgb(36, 36, 36) !important;
+  background: rgb(36, 36, 36) !important;
 }
 
 
 .reveal .slide-menu-button {
   display: none;
-  background-color: transparent;
+  background-color: rgb(36, 36, 36) !important;
+  background: rgb(36, 36, 36) !important;
 }
 
 // .reveal .controls button{
@@ -426,8 +431,9 @@ a {
 }
 
 .reveal {
-  background-color: transparent !important;
-  background: transparent !important;
+  background-color: rgb(36, 36, 36) !important;
+  background: rgb(36, 36, 36) !important;
+  color: white;
 }
 
 .faq-heading {
