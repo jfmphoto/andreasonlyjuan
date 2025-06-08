@@ -2,18 +2,16 @@
 format: 
   revealjs:
     background-transition: fade
-    controls: true       # Keep navigation arrows
-    progress: false      # Hide progress bar (optional)
-    slide-number: false  # Hide slide numbers
-    overview: false      # Disable the overview menu (hamburger)
-    auto-slide: 5000     # Auto-advance every 5 seconds
-    auto-slide-stoppable: false  # Prevent stopping the auto-slide manually
+    controls: true
+    progress: false
+    slide-number: false
+    overview: false
+    auto-slide: 5000
+    auto-slide-stoppable: false
     loop: true
     transition-speed: slow
     transition: fade
-    
-    
-
+    css: style.css  
 ---
 
 
