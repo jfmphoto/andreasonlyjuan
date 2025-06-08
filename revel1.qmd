@@ -11,13 +11,15 @@ format:
     loop: true
     transition-speed: slow
     transition: fade 
+    css: reveal.scss
 ---
 
+
+#  {.center background-image="images/gallery-11.jpg" background-size="contain"} 
 
 #  {.center background-image="images/gallery-1.jpg" background-size="contain"}
 
 #  {.center background-image="images/gallery-11.jpg" background-size="contain"} 
-
 
 
 #  {.center background-image="images/gallery-2.jpg" background-size="contain"}

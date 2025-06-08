@@ -16,9 +16,10 @@ $font-family-base: "Open Sans", sans-serif !default;
 /*-- scss:rules --*/
 
 body {
-  background-color: transparent;
-  color: black;
+  background-color: rgb(36, 36, 36);
+  color: white;
 }
+
 
 
 a {
@@ -84,7 +85,7 @@ a {
 
 /* Hover effect */
 .navbar-nav .nav-link:hover {
-  background-color: #f0f0f0; /* Light gray hover effect */
+  background-color: transparent; /* Light gray hover effect */
   border-color: #555; /* Darker border on hover */
 
 }
@@ -98,9 +99,15 @@ a {
   display: none;
 }
 
-.reveal-viewport {
-  background-color: transparent;
+.reveal {
+  background-color: rgb(36, 36, 36) !important;
 }
+
+
+.reveal-viewport {
+  background-color: rgb(36, 36, 36) !important;
+}
+
 
 .reveal section img {
   height: 100vh;  /* Full viewport height */
