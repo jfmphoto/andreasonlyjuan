@@ -131,7 +131,7 @@ happily ever after-party
 <!-- [Schedule](story.html){.theme-button}  -->
 [Travel](story.html){.theme-button}
 [FAQ](faq.html){.theme-button}
-[RSVP](story.html){.theme-button} 
+[RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
 
 
 #### Contact:

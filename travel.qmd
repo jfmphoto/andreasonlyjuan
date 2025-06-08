@@ -6,7 +6,7 @@ format: html
 
 ![](images/tayrona.jpg "La Tayrona"){#home .full-width-image}
 
-# STAYING IN <br> SANTA MARTA.{.splash-title}
+# STAYING IN <br> SANTA MARTA{.splash-title}
 
 #
 
@@ -67,7 +67,7 @@ Magdalena, Colombia
 <!-- [Schedule](story.html){.theme-button}  -->
 [Travel](story.html){.theme-button}
 [FAQ](faq.html){.theme-button}
-[RSVP](story.html){.theme-button} 
+[RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
 
 
 #### Contact:

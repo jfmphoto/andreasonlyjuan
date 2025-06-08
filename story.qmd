@@ -52,9 +52,10 @@ format:
 
 <div class="story">
 <br><br>
-We were lab partners in high school chemistry and became friends instantly. Despite time and distance, we kept in touch as adults. The signs were always there, like watching the sunrise in South Beach New Year's Eve 2018, that December stroll in Central Park, or that night in the party bus riding through Manhattan.
+We were lab partners at our high school chemistry class and quickly became friends. After graduation, we kept in touch even when Juan moved to New York in 2011. The signs were always there, like that New Years sunrise in South Beach or that night in the party bus rolling through the streets of Manhattan.
 <br><br>
-It wasn’t until Andrea moved to New York that our love story unfolded. Twenty years since that fateful class, it still feels like we’re those two kids in chemistry. Now, just in love and ready for forever. 
+It wasn’t until Andrea moved to New York that our romantic story unfolded. Twenty years since we met, it still feels like we’re those two kids in chemistry. Now, just in love and ready for our next chapter.  
+
 
 </div>
 
@@ -75,7 +76,7 @@ It wasn’t until Andrea moved to New York that our love story unfolded. Twenty 
 <!-- [Schedule](story.html){.theme-button}  -->
 [Travel](story.html){.theme-button}
 [FAQ](faq.html){.theme-button}
-[RSVP](story.html){.theme-button} 
+[RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
 
 
 #### Contact:
