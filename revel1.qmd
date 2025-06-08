@@ -11,7 +11,7 @@ format:
     loop: true
     transition-speed: slow
     transition: fade
-    css: style.css  
+    css: custom.scss  
 ---
 
 
