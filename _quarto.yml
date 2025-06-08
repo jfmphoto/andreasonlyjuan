@@ -26,6 +26,7 @@ website:
         href: "faq.html"
       - text: "RSVP"
         href: "https://pp.events/aaNmELQb"
+        target: _blank
 
 format:
   html:
