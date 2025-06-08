@@ -10,8 +10,7 @@ format:
     auto-slide-stoppable: false
     loop: true
     transition-speed: slow
-    transition: fade
-    css: custom.scss  
+    transition: fade 
 ---
 
 
