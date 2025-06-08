@@ -20,7 +20,7 @@ format: html
 
 <div class="story">
 
-The wedding party will be staying at the Hilton Santa Marta in Pozos Colorados. More details to follow.
+The wedding party will be staying at the Hilton Santa Marta in Pozos Colorados. We are finalizing the details for a group rate and will provide more details soon. Guests are welcomed to start booking your travel if you prefer getting ahead.
 
 </div>
 
@@ -33,6 +33,15 @@ Pozos Colorados, Santa Marta, <br>
 Magdalena, Colombia
 
 </div>
+
+<br>
+
+<div class="story">
+
+For anyone interested in other hotel or AirBnB options, we recommend staying in the Pozos Colorados area due to its central location and the convenience of staying close to the wedding party. Below are some additional hotel options– 
+
+</div>
+
 :::
 ::: {.column width="50%"}
 
@@ -51,8 +60,63 @@ Magdalena, Colombia
 :::
 
 
-<br>
-<br>
+<div class= "text-center"> 
+
+::: columns
+
+::: {.column width="30%"}
+
+Hotel Mercure 
+
+Calle 115 NO 2 39 Bello Horizonte 
+
+Tel. 035 4368484 
+
+<br><br>
+
+Hotel Zuana Beach Resort 
+
+Cra. 2 #6-80, Bello Horizonte 
+
+Tel. 035 4380011 
+
+
+:::
+
+::: {.column width="30%"}
+
+Hotel Estelar Santamar 
+
+Kilometro 8 Sector de Pozos Colorados 
+
+Tel. 035 4328181 
+
+<br><br>
+
+Hotel Irotama 
+
+Irotama Resort By Karisma Km. 14 vía a Ciénaga, Santa Marta, Magdalena 
+
+Tel. 035 4380600
+
+
+:::
+
+::: {.column width="30%"}
+
+Hoteles Santorini – Regency 
+
+Carrera 2 #4-49, Bello Horizonte, Santa Marta 
+
+Tel. 035 4329400
+
+
+:::
+
+
+:::
+
+</div>
 
 </div> 
 
