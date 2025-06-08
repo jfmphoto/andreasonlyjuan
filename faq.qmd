@@ -6,23 +6,25 @@ format: html
 
 ![](images/faq.jpg "La Tayrona"){#home .full-width-image}
 
-# FREQUENTLY  <br> ASKED <br> QUESTIONS {.splash-title}
+
+
+
+#  FAQs{.splash-title}
+
+
+<div class="bleed-section bg-party pads faqs text-center">
+
 
 #
 
 
 
-<div class="bleed-section bg-party pads">
-
-<br>
-<br>
-
 ::: {.accordion}
 
-### What is the dress code for the wedding?
+## *What is the dress code for the wedding?*
 
  
-*The dress code is beach formal. Consider light, airy fabrics suitable for warm, tropical climate and a celebration by the beach.*
+The dress code is beach formal. Consider light, airy fabrics suitable for warm, tropical climate and a celebration by the beach.
  
 
 :::
@@ -31,7 +33,7 @@ format: html
 
 ::: {.accordion}
 
-### What days should I fly in and out for the celebration?
+## *What days should I fly in and out for the celebration?*
 
  
 Our big day will be on Friday, December 5th, and an optional event on Thursday, so we recommend guests fly in at minimum Wednesday, December 3rd.
@@ -47,7 +49,7 @@ We will have an optional event on Saturday, so it would be ideal for guests to s
 
 ::: {.accordion}
 
-### What is the itinerary for the weekend?
+## *What is the itinerary for the weekend?*
 
  
 We are coordinating all the details for the weekend and will have final details soon. To help get your planning started, please know we will be hosting a welcome event the evening of December 4th, followed by our wedding the next day and an optional post wedding event on Saturday.
@@ -59,7 +61,7 @@ We are coordinating all the details for the weekend and will have final details 
 
 ::: {.accordion}
 
-### What airport should I fly into? Are there other options?
+## *What airport should I fly into? Are there other options?*
 
 
  
@@ -76,7 +78,7 @@ Alternatively, guests can fly directly to Barranquilla and take a two hour shutt
 
 ::: {.accordion}
 
-### How do I get from the airport to the hotel?
+## *How do I get from the airport to the hotel?*
 
  
 Uber and local taxis are accessible in Santa Marta, but we are still coordinating the details around general transport so will provide an update soon. 
@@ -89,7 +91,7 @@ Uber and local taxis are accessible in Santa Marta, but we are still coordinatin
 
 ::: {.accordion}
 
-### Is Santa Marta generally safe?
+## *Is Santa Marta generally safe?*
 
 
  
@@ -105,7 +107,7 @@ As long as you stay aware of your surroundings, you’ll be able to enjoy all th
 
 ::: {.accordion}
 
-### Do I need a visa to visit Colombia? Any passport requirements?
+## *Do I need a visa to visit Colombia? Any passport requirements?*
 
 
  
@@ -119,7 +121,7 @@ Most visitors from the U.S., Canada, and the EU don’t need a visa—just a val
 
 ::: {.accordion}
 
-### Is uber available in Santa Marta?
+## *Is Uber available in Santa Marta?*
 
 
  
@@ -133,7 +135,7 @@ Yes, uber is available in Santa Marta.
 
 ::: {.accordion}
 
-### What areas of town should we look into?
+## *What areas of town should we look into?*
 
  
 
@@ -154,7 +156,7 @@ You really can’t go wrong in Santa Marta, it all depends on what you’re look
 
 ::: {.accordion}
 
-### Where is the wedding party staying? Will there be a room block or group code?
+## *Where is the wedding party staying? Will there be a room block or group code?*
 
  
 The wedding party will be staying at the Hilton in Santa Marta’s Bello Horizonte area. We will follow-up with more details around a potential room block or group rate soon. 
@@ -167,7 +169,7 @@ The wedding party will be staying at the Hilton in Santa Marta’s Bello Horizon
 
 ::: {.accordion}
 
-### What are some fun things to do in Santa Marta? 
+## *What are some fun things to do in Santa Marta?*
 
  
 Excursions - 
@@ -186,7 +188,7 @@ Taganga - bohemian and budget friendly side of town that offers scuba diving and
 
 ::: {.accordion}
 
-### What’s the weather like in December?
+## *What’s the weather like in December?*
 
  
 December in Santa Marta is one of the best times to visit - warm and sunny! Daytime highs range between 85–90°F (29–32°C) with nighttime lows between 73–77°F (23–25°C). 
@@ -203,7 +205,7 @@ Make sure to bring your sunscreen and light layers for ocean breezes at night!
 
 ::: {.accordion}
 
-### What is the local currency in Colombia? 
+## *What is the local currency in Colombia?*
 
  
 The local currency in Colombia is the Colombian Peso (COP). Credit/debit cards are widely accepted and ATMs are available around town. Cash is useful for taxi, tips, markets, and street vendors.
