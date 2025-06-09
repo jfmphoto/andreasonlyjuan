@@ -21,11 +21,9 @@ format: html
 
 ::: {.accordion}
 
-## *What is the dress code for the wedding?*
+## *What is the itinerary for the weekend?*
 
- 
-The dress code is beach formal. Consider light, airy fabrics suitable for warm, tropical climate and a celebration by the beach.
- 
+There will be wedding events Thursday-Saturday. Our big day will be on Friday, December 5th. There are optional events Thursday evening (welcome cocktails) and Saturday afternoon (beach club).  We are coordinating the final details for the weekend and will have more to share soon.  
 
 :::
 
@@ -33,13 +31,10 @@ The dress code is beach formal. Consider light, airy fabrics suitable for warm, 
 
 ::: {.accordion}
 
-## *What days should I fly in and out for the celebration?*
+## *What days should I fly in for the celebration?*
 
  
-Our big day will be on Friday, December 5th, and an optional event on Thursday, so we recommend guests fly in at minimum Wednesday, December 3rd.
- <br>
-We will have an optional event on Saturday, so it would be ideal for guests to stay at least until Sunday, December 7th.
-
+Guests are encouraged to arrive Wednesday or Thursday afternoon to be part of all of the events.
  
 
 :::
@@ -61,15 +56,10 @@ We are coordinating all the details for the weekend and will have final details 
 
 ::: {.accordion}
 
-## *What airport should I fly into? Are there other options?*
+## *What airport should I fly into?*
 
 
- 
-Santa Marta’s international airport is Simón Bolívar International Airport (SMR).
-
-There aren’t any direct flights from the US, but there are one stop flights departing from the Miami/Ft. Lauderdale or New York area. 
-
-Alternatively, guests can fly directly to Barranquilla and take a two hour shuttle from Ernesto Cortissoz International Airport (BAQ) to Santa Marta (SMR). The public shuttle can be around $8-$15 USD per person.
+ Santa Marta’s international airport is Simón Bolívar International Airport (SMR). There aren’t any direct flights from the US, but there are one stop flights from the Miami/Ft. Lauderdale and the New York area with reasonably short layovers in Bogota or Panama. Simón Bolívar International Airport (SMR) is 10 minutes from the Pozos Colorados district (where the wedding party will be staying in). Uber and local taxis are easily accessible from the airport.
  
 
 :::
@@ -78,41 +68,53 @@ Alternatively, guests can fly directly to Barranquilla and take a two hour shutt
 
 ::: {.accordion}
 
-## *How do I get from the airport to the hotel?*
+## *Where is the wedding party staying? Will there be a room block or group rate?*
 
- 
-Uber and local taxis are accessible in Santa Marta, but we are still coordinating the details around general transport so will provide an update soon. 
- 
-
+The wedding party will be staying at the Hilton in Pozos Colorados, Santa Marta (see travel tab on our site). We will follow-up with more details on the group rate soon. 
 
 
 :::
+<br>
+
+::: {.accordion}
+
+## *What is the dress code for the wedding?*
+
+
+The dress code is beach formal. Consider light, airy fabrics suitable for warm, tropical climate and a celebration by the beach. For the ladies, consider platform heels (no stilettos). 
+ 
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *Will the ceremony reception be indoors or outdoors?*
+
+
+The ceremony and reception will be held outdoors.
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *What’s the weather like in December?*
+
+Daytime highs range between 85–90°F (29–32°C) with nighttime lows between 73–77°F (23–25°C) with humidity throughout the day. Make sure to bring your sunscreen and light layers for ocean breezes at night!
+ 
+
+:::
+
 <br>
 
 ::: {.accordion}
 
 ## *Is Santa Marta generally safe?*
 
-
- 
-Yes! Like any destination, we recommend standard precautions – but Santa Marta is a lovely coastal town known for its relaxed vibe, friendly locals, and beautiful landscapes. 
-
-As long as you stay aware of your surroundings, you’ll be able to enjoy all the beauty the city has to offer.
-
- 
-
-:::
-
-<br>
-
-::: {.accordion}
-
-## *Do I need a visa to visit Colombia? Any passport requirements?*
-
-
- 
-Most visitors from the U.S., Canada, and the EU don’t need a visa—just a valid passport. Please ensure your passport is not set to expire less than six months post December 2025.
-
+Yes! Like any foreign destination, we recommend standard precautions – but Santa Marta is a lovely coastal town known for its relaxed vibe, friendly locals, and beautiful landscapes. As long as you stay aware of your surroundings, you’ll be able to enjoy all the beauty the city has to offer.
  
 
 :::
@@ -123,11 +125,7 @@ Most visitors from the U.S., Canada, and the EU don’t need a visa—just a val
 
 ## *Is Uber available in Santa Marta?*
 
-
- 
-Yes, uber is available in Santa Marta.
-
- 
+Yes, uber is easily accessible in Santa Marta.
 
 :::
 
@@ -137,31 +135,12 @@ Yes, uber is available in Santa Marta.
 
 ## *What areas of town should we look into?*
 
- 
+The wedding party will be staying in Pozos Colorado. It is a quieter beachfront area with beautiful views, plenty of hotel options, and a more peaceful vibe. It is also ~10-15 minutes away from the airport, the wedding vanue, and downtown Santa Marta. Other options –
 
-The wedding party will be staying in the Bello Horizonte area. It is a quieter beachfront area with beautiful views, plenty of hotel options, and a more peaceful vibe. It is also ~10-15 minutes away from the airport.
-<br><br>
-Other areas - 
-Centro Histórico neighborhood (~30 minutes from the airport). It’s busier and farther from the beach, but walkable. 
+-  Centro Histórico (~30 minutes from the airport). It’s busier and farther from the beach, but walkable.
 
-El Rodadero is another popular area (~25 minutes from the airport). It is lively and full of restaurants and nightlife although it can be very touristy. 
+-  El Rodadero (~25 minutes from the airport) is lively and full of restaurants and nightlife although it can be very touristy.
 
-You really can’t go wrong in Santa Marta, it all depends on what you’re looking for.
-
- 
-
-:::
-
-<br>
-
-::: {.accordion}
-
-## *Where is the wedding party staying? Will there be a room block or group code?*
-
- 
-The wedding party will be staying at the Hilton in Santa Marta’s Bello Horizonte area. We will follow-up with more details around a potential room block or group rate soon. 
-
- 
 
 :::
 
@@ -171,16 +150,22 @@ The wedding party will be staying at the Hilton in Santa Marta’s Bello Horizon
 
 ## *What are some fun things to do in Santa Marta?*
 
- 
-Excursions - 
+Excursions -
 
-Tayrona National Natural Park - one of Colombia’s most breathtaking national parks with lucious, tropical hikes and stunning beaches
+-  Tayrona National Natural Park - one of Colombia’s most breathtaking national parks with lucious, tropical hikes and stunning beaches
+-  Minca - a tiny town tucked into the Sierra Nevada mountains. Visit eco-lodges, tour coffee farms, and swim in the Pozo Azul waterfall
+-  Taganga - bohemian and budget friendly side of town that offers scuba diving and snorkeling excursions
 
-Minca - a tiny town tucked into the Sierra Nevada mountains. Visit eco-lodges, tour coffee farms, and swim in the Pozo Azul waterfall
+Restaurants - 
 
-Taganga - bohemian and budget friendly side of town that offers scuba diving and snorkeling excursions 
+-  Lulo Café Bar de Jugos, Altamar Café, Donde Chucho, Batey, Ouzu, Santa Mesa, BK Restaurante
 
- 
+Things to see -
+
+-  El Pibe Valderrama statue outside the Estadio Eduardo Santos
+-  Quinta de San Pedro Alejandrino – Hacienda where Simón Bolivar spent his last days
+-  Tairona Gold Museum
+
 
 :::
 
@@ -188,15 +173,9 @@ Taganga - bohemian and budget friendly side of town that offers scuba diving and
 
 ::: {.accordion}
 
-## *What’s the weather like in December?*
+## *Do I need a visa to visit Colombia? Any passport requirements?*
 
- 
-December in Santa Marta is one of the best times to visit - warm and sunny! Daytime highs range between 85–90°F (29–32°C) with nighttime lows between 73–77°F (23–25°C). 
-
-Keep in mind that Santa Marta is in the Caribbean coast so you can’t escape the humidity but December is generally less humid than other months.
-
-Make sure to bring your sunscreen and light layers for ocean breezes at night!
-
+Most visitors from the U.S., Canada, and the EU don’t need a visa—just a valid passport. Please ensure your passport is not set to expire less than six months post December 2025.
  
 
 :::
@@ -207,9 +186,7 @@ Make sure to bring your sunscreen and light layers for ocean breezes at night!
 
 ## *What is the local currency in Colombia?*
 
- 
 The local currency in Colombia is the Colombian Peso (COP). Credit/debit cards are widely accepted and ATMs are available around town. Cash is useful for taxi, tips, markets, and street vendors.
- 
 
 :::
 
