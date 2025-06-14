@@ -23,7 +23,7 @@ format:
 
 ![](images/hands.jpg "La Tayrona"){#home .full-width-image}
 
-# SO WE <BR>MET IN <BR>CHEMISTRY.{.splash-title}
+# SO WE <BR>MET IN <BR>CHEMISTRY{.splash-title}
 
 #
 

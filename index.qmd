@@ -6,7 +6,7 @@ format: html
 
 ![](images/banner1.jpg "La Tayrona"){#home .full-width-image}
 
-# WE DO. <br>IN SANTA <br>MARTA.{.splash-title}
+# WE DO <br>IN SANTA <br>MARTA{.splash-title}
 
 #
 
