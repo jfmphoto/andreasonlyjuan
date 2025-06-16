@@ -211,7 +211,7 @@ p {
   
 }
 .faqs .anchored {
-  transform: translate(0.6em, 0%)
+  margin: translate(0.6em, 0%)
 }
 
 .no-anchor .anchor {
@@ -260,11 +260,17 @@ a {
   @media (max-width: 975px) { // Tablets & Large Phones
   
     margin: 0 5%;
+    .pads{
+  padding: 1em 2em;
+}
   }
 
   @media (max-width: 480px) { // Phones
    
     margin: 0px; // Fixed margin for very small screens
+    .pads{
+  padding: 1em 1em;
+}
   }
 }
 
@@ -536,7 +542,7 @@ a {
 }
 
 .pads{
-  padding: 1em 4em  !important;
+  padding: 1em 3em;
 }
 
 .highlight-heading {
