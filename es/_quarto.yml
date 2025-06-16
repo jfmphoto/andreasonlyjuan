@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: ../docs/es
+  resources:
+    - ../fonts
+    - ../reveal.scss
+
+
+website:
+  title: "La boda de Andrea & Juan"
+  search: false
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.html
+      - text: "Nuestra Historia"
+        href: historia.html
+      - text: "Viaje"
+        href: viaje.html
+      - text: "Preguntas Frecuentes"
+        href: preguntas.html
+      - text: "Confirmar Asistencia"
+        href: https://pp.events/aaNmELQb
+        target: _blank
+    right:
+      - text: "EN"
+        href: ../index.html
+
+format:
+  html:
+    theme:
+      light: ../custom.scss
+      dark: ../themedark.scss
+    toc: false

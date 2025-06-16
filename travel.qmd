@@ -130,7 +130,7 @@ Tel. 035 4329400
 
 [Our Story](story.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
-[Travel](story.html){.theme-button}
+[Travel](travel.html){.theme-button}
 [FAQ](faq.html){.theme-button}
 [RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
 

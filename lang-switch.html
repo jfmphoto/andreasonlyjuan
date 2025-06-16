@@ -1,0 +1,35 @@
+<style>
+  .lang-switch {
+    padding: 6px 6px;
+    margin: 0 ;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+    font-family: 'Sackers Gothic Std', sans-serif;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 0.8rem;
+    transition: all 0.3s ease;
+  }
+
+  .lang-switch:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const tools = document.querySelector(".quarto-navbar-tools");
+    if (!tools) return;
+
+    const esButton = document.createElement("a");
+    esButton.href = "/es/index.html";  // Adjust path as needed
+    esButton.className = "lang-switch";
+    esButton.innerText = "ES";
+    tools.appendChild(esButton);
+  });
+</script>
+
+

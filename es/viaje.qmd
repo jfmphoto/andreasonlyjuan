@@ -1,0 +1,149 @@
+---
+title: "Información de Viaje"
+lang: es
+title-block-banner: false
+format: html
+---
+
+![](images/tayrona.jpg "La Tayrona"){#home .full-width-image}
+
+# HOSPEDAJE EN <br> SANTA MARTA{.splash-title}
+
+#
+
+<div class="bleed-section bg-party">
+
+::: columns
+
+::: {.column width="50%"}
+
+<br> 
+
+<div class="story">
+
+Los novies se hospedarán en el Hilton Santa Marta en Pozos Colorados. Estamos finalizando los detalles para una tarifa grupal y pronto tendremos más detalles. Si prefieren reservar su viaje con anticipación, les invitamos a hacerlo.
+
+</div>
+
+#### <br><span class="highlight-heading">*[Hilton Santa Marta](https://www.hilton.com/en/hotels/smrcnhh-hilton-santa-marta/)*</span> {.no-anchor .no-margin-top}
+
+<div class="dates">
+
+Carrera 2 #114-78, <br>
+Pozos Colorados, Santa Marta <br>
+Magdalena, Colombia
++57 605 435 1770
+
+</div>
+
+<br>
+
+<div class="story">
+
+For anyone interested in other hotel or AirBnB options, we recommend staying in the Pozos Colorados area due to its central location and the convenience of staying close to the wedding party. Below are some additional hotel options– 
+
+</div>
+
+:::
+::: {.column width="50%"}
+
+::: {.columns}
+
+::: {.column width="100%"}
+
+![](images/hilton-exterior.jpg
+){width=100%}
+
+
+:::
+
+:::
+:::
+:::
+
+
+<div class= "text-center"> 
+
+::: columns
+
+::: {.column width="30%"}
+
+Hotel Mercure 
+
+Calle 115 NO 2 39 Bello Horizonte 
+
+Tel. 035 4368484 
+
+<br><br>
+
+Hotel Zuana Beach Resort 
+
+Cra. 2 #6-80, Bello Horizonte 
+
+Tel. 035 4380011 
+
+
+:::
+
+::: {.column width="30%"}
+
+Hotel Estelar Santamar 
+
+Kilometro 8 Sector de Pozos Colorados 
+
+Tel. 035 4328181 
+
+<br><br>
+
+Hotel Irotama 
+
+Irotama Resort By Karisma Km. 14 vía a Ciénaga, Santa Marta, Magdalena 
+
+Tel. 035 4380600
+
+
+:::
+
+::: {.column width="30%"}
+
+Hoteles Santorini – Regency 
+
+Carrera 2 #4-49, Bello Horizonte, Santa Marta 
+
+Tel. 035 4329400
+
+
+:::
+
+
+:::
+
+</div>
+
+</div> 
+
+
+
+
+:::{.text-center}
+<br>
+<br>
+
+[Our Story](story.html){.theme-button} 
+<!-- [Schedule](story.html){.theme-button}  -->
+[Travel](travel.html){.theme-button}
+[FAQ](faq.html){.theme-button}
+[RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
+
+
+#### Contact:
+
+If you have any questions, feel free to reach out to us!
+
+**Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
+**Event planner, Karol:** +57 123-456-7890
+
+:::
+
+
+    

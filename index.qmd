@@ -1,5 +1,6 @@
 ---
 title: "Andrea & Juan's Wedding"
+lang: en
 title-block-banner: false
 format: html
 ---
@@ -42,7 +43,7 @@ Stay tuned for updates of our weekend celebration. We can’t wait to celebrate 
 HERE'S A SNEAK PEEK OF
 </div>
 
-## <br><span class="highlight-heading">*OUR WEDDING WEEKEND*</span> {.no-anchor .text-center .no-margin-top}
+## <br>*OUR WEDDING WEEKEND*{.no-anchor .text-center .no-margin-top .highlight-heading}
 
 
 
@@ -129,7 +130,7 @@ happily ever after-party
 
 [Our Story](story.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
-[Travel](story.html){.theme-button}
+[Travel](travel.html){.theme-button}
 [FAQ](faq.html){.theme-button}
 [RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
 

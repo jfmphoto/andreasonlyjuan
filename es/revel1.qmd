@@ -1,0 +1,44 @@
+---
+format: 
+  revealjs:
+    background-transition: fade
+    controls: true
+    progress: false
+    slide-number: false
+    overview: false
+    auto-slide: 5000
+    auto-slide-stoppable: false
+    loop: true
+    transition-speed: slow
+    transition: fade 
+    css: ../reveal.scss
+---
+
+
+#  {.center background-image="images/gallery-11.jpg" background-size="contain"} 
+
+#  {.center background-image="images/gallery-1.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-11.jpg" background-size="contain"} 
+
+
+#  {.center background-image="images/gallery-2.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-3.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-4.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-5.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-6.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-7.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-8.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-9.jpg" background-size="contain"}
+
+#  {.center background-image="images/gallery-10.jpg" background-size="contain"}
+
+
+
