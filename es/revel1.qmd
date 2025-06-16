@@ -11,7 +11,7 @@ format:
     loop: true
     transition-speed: slow
     transition: fade 
-    css: ../reveal.scss
+    css: /reveal.scss
 ---
 
 
