@@ -61,7 +61,7 @@ Now, just in love and ready for our next chapter.
         src="revel1.html" 
         width="100%" 
         height="650px" 
-        style="border: none; background: transparent;" 
+        style="border: none; background-color: transparent;" 
         allowtransparency="true">
 </iframe>
 
