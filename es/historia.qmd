@@ -4,7 +4,22 @@ lang: es
 title-block-banner: false
 format:
   html:
-    title-block-banner: false
+    include-in-header: |
+      <script>
+        function sendThemeToIframe() {
+          let theme = document.documentElement.getAttribute("data-theme");
+          let iframe = document.getElementById("reveal-iframe");
+          if (iframe && iframe.contentWindow) {
+            iframe.contentWindow.postMessage({ theme: theme }, "*");
+          }
+        }
+
+        // Send theme when the page loads
+        document.addEventListener("DOMContentLoaded", sendThemeToIframe);
+
+        // Detect theme changes and update iframe
+        new MutationObserver(sendThemeToIframe).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+      </script>
     
 ---
 
@@ -74,12 +89,12 @@ Ahora, enamorados y listos para nuestro siguiente capítulo.
 [Confirmar Asistencia](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
 
 
-#### Contact:
+#### Contacto:
 
-If you have any questions, feel free to reach out to us!
+Si tienes alguna pregunta, ¡no dudes en contactarnos!
 
 **Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
-**Event planner, Karol:** +57 123-456-7890
+**Planificadora de bodas, Karol:** +57 123-456-7890
 
 :::
 

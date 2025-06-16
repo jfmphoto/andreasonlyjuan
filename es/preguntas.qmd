@@ -1,0 +1,232 @@
+---
+title: "A&J Preguntas"
+title-block-banner: false
+format: html
+---
+
+![](images/faq.jpg "La Tayrona"){#home .full-width-image}
+
+
+
+
+#  PREGUNTAS<br>FREQUENTES{.splash-title}
+
+
+<div class="bleed-section bg-party pads faqs text-center">
+
+
+#
+
+
+::: {.accordion}
+
+## *¿Cuál es el itinerario de la boda?*
+
+Habrá eventos de Jueves a Sábado. La boda será el Viernes, 5 de Diciembre. Hay eventos opcionales el Jueves por la noche (cócteles de bienvenida) y el Sábado por la tarde (dia de playa). Estamos coordinando los últimos detalles para el fin de semana y pronto compartiremos más información.
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *¿Qué días debo viajar para la celebración?*
+
+Se recomienda a los invitados llegar el miércoles, o jueves por la tarde, para participar en todos los eventos.
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *¿A qué aeropuerto debo viajar?*
+
+El aeropuerto internacional de Santa Marta es el Aeropuerto Internacional Simón Bolívar (SMR). No hay vuelos directos desde EE. UU., pero ahi vuelos con una sola escalas razonablemente cortas en Bogotá o Panamá. El Aeropuerto Internacional Simón Bolívar (SMR) está a 10 minutos del distrito de Pozos Colorados (donde se alojarán las familias). Se puede acceder fácilmente con Uber o taxis desde el aeropuerto.
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *¿Dónde se hospedará los padrinos y padrinas? ¿Habrá un bloque de habitaciones o tarifa de grupo?*
+
+Los padrinos y padrinas se hospedará en el Hilton en Pozos Colorados, Santa Marta (ver la pagina de Viajes para otros hoteles). Pronto les daremos más detalles sobre la tarifa de grupo.
+
+:::
+<br>
+
+::: {.accordion}
+
+## *¿Cuál es el código de vestimenta para la boda?*
+
+El código de vestimenta es formal playero. Considere telas ligeras adecuadas para un clima tropical cálido y una celebración en la playa. Para las damas, considere tacones de plataforma (no stilettos).
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *¿La recepción de la ceremonia será en un lugar cerrado o al aire libre?*
+
+La ceremonia y la recepción se realizarán al aire libre.
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *¿Cómo es el clima en Diciembre?*
+
+Las temperaturas máximas son entre 29 y 32 °C (85 y 90 °F) y las mínimas entre 23 y 25 °C (73 y 77 °F) con humedad durante todo el día. ¡Asegúrate de llevar protector solar y ropa ligera para la brisa marina por la noche!
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *¿Es Santa Marta segura en general?*
+
+¡Sí! Como en cualquier destino extranjero, recomendamos tomar las precauciones habituales, pero Santa Marta es una encantadora ciudad costeña conocida por su ambiente relajado, sus amables habitantes y sus hermosos paisajes. Podrás disfrutar de toda la belleza que ofrece la ciudad.
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *¿Hay Uber disponible en Santa Marta?*
+
+Sí, hay fácil acceso a Uber en Santa Marta.
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *¿Qué zonas de la ciudad deberíamos considerar?*
+
+El grupo de la boda se alojará en Pozos Colorado. Es una zona tranquila frente al mar con hermosas vistas, una gran variedad de hoteles y un ambiente más tranquilo. También está a unos 10-15 minutos del aeropuerto, la ubicacion de la boda, y el centro de Santa Marta. Otras opciones:
+
+<br>
+
+Centro Histórico (a unos 30 minutos del aeropuerto). Es más populado y está más lejos de la playa, pero se puede  disfrutar a pie.
+
+<br>
+
+El Rodadero (a unos 25 minutos del aeropuerto) es un lugar animado y lleno de restaurantes y vida nocturna, pero puede ser muy turístico.
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *¿Qué actividades divertidas ahi que hacer en Santa Marta?*
+
+-- Excursiones --
+
+<br>
+
+Parque Nacional Natural Tayrona: uno de los parques nacionales más impresionantes de Colombia, con exuberantes senderos tropicales y playas espectaculares.
+
+<br>
+
+Minca: un pequeño pueblo enclavado en la Sierra Nevada. Visite eco-lodges, recorra fincas cafeteras y nade en la cascada Pozo Azul.
+
+<br>
+
+Taganga: una zona bohemia y económica de la ciudad que ofrece excursiones de buceo y snorkel.
+
+<br>
+
+-- Restaurantes --
+
+<br>
+
+Lulo Café Bar de Jugos, Altamar Café, Donde Chucho, Batey, Ouzu, Santa Mesa, BK Restaurante
+
+<br>
+
+-- Qué ver --
+
+<br>
+
+Estatua del Pibe Valderrama frente al Estadio Eduardo Santos.
+
+<br>
+
+Quinta de San Pedro Alejandrino: Hacienda donde Simón Bolívar pasó sus últimos días.
+
+<br>
+
+Museo del Oro Tairona, Casa de la Aduana: Ubicado en el edificio colonial más antiguo que se conserva en Colombia.
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *¿Necesito visa para visitar Colombia? ¿Hay algún requisito de pasaporte?*
+
+La mayoría de los visitantes de EE. UU., Canadá y Europa no necesitan visa, solo un pasaporte válido. Asegúrese de que su pasaporte no se venza en menos de seis meses después de Diciembre de 2025.
+
+:::
+
+<br>
+
+::: {.accordion}
+
+## *¿Cuál es la moneda local en Colombia?*
+
+La moneda local en Colombia es el Peso Colombiano (COP). Las tarjetas de crédito/débito son ampliamente aceptadas y hay cajeros automáticos disponibles en toda la ciudad. El efectivo es útil para taxis, propinas, mercados y vendedores.
+
+:::
+
+<br><br>
+
+ </div>
+ 
+
+
+
+:::{.text-center}
+<br>
+<br>
+
+[Nuestra Historia](historia.html){.theme-button} 
+<!-- [Schedule](story.html){.theme-button}  -->
+[Viaje](viaje.html){.theme-button}
+[Preguntas Frequentes](preguntas.html){.theme-button}
+[Confirmar Asistencia](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
+
+
+#### Contacto:
+
+Si tienes alguna pregunta, ¡no dudes en contactarnos!
+
+**Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
+**Planificadora de bodas, Karol:** +57 123-456-7890
+
+:::
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const accordions = document.querySelectorAll('.accordion');
+
+  accordions.forEach((accordion) => {
+    const header = accordion.querySelector('h3');
+    header.addEventListener('click', function() {
+      accordion.classList.toggle('open');
+    });
+  });
+});
+</script>
+

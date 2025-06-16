@@ -1,5 +1,9 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!es/*"
+
 
 website:
   title: "Andrea & Juan's Wedding"

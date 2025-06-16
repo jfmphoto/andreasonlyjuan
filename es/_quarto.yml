@@ -22,9 +22,7 @@ website:
       - text: "Confirmar Asistencia"
         href: https://pp.events/aaNmELQb
         target: _blank
-    right:
-      - text: "EN"
-        href: ../index.html
+
 
 format:
   html:
@@ -32,3 +30,5 @@ format:
       light: ../custom.scss
       dark: ../themedark.scss
     toc: false
+    lightbox: true
+    include-after-body: lang-switch.html

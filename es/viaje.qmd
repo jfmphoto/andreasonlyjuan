@@ -129,21 +129,20 @@ Tel. 035 4329400
 <br>
 <br>
 
-[Our Story](story.html){.theme-button} 
+[Nuestra Historia](historia.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
-[Travel](travel.html){.theme-button}
-[FAQ](faq.html){.theme-button}
-[RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
+[Viaje](viaje.html){.theme-button}
+[Preguntas Frequentes](preguntas.html){.theme-button}
+[Confirmar Asistencia](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
 
 
-#### Contact:
+#### Contacto:
 
-If you have any questions, feel free to reach out to us!
+Si tienes alguna pregunta, ¡no dudes en contactarnos!
 
 **Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
-**Event planner, Karol:** +57 123-456-7890
+**Planificadora de bodas, Karol:** +57 123-456-7890
 
 :::
-
 
     

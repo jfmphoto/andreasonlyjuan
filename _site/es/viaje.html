@@ -35,7 +35,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-91c517cf86c7f38b37963c6fccb6f634.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-71957aeb569506aabde64a09273f9a16.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark-1e2cdd8773bba2ae68242968ed3b82cd.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
@@ -96,12 +96,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">RSVP</span></a>
   </li>  
 </ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../es/index.html"> 
-<span class="menu-text">ES</span></a>
-  </li>  
-</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo oscuro"><i class="bi"></i></a>
@@ -116,9 +110,6 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content" id="quarto-document-content">
-<div id="lang-switch-container">
-  <a href="es/index.html" class="lang-switch-button">ES</a>
-</div>
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -210,6 +201,41 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<style>
+  .lang-switch {
+    padding: 6px 6px;
+    margin: 0 ;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+    font-family: 'Sackers Gothic Std', sans-serif;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 0.8rem;
+    transition: all 0.3s ease;
+  }
+
+  .lang-switch:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const tools = document.querySelector(".quarto-navbar-tools");
+    if (!tools) return;
+
+    const esButton = document.createElement("a");
+    esButton.href = "/es/index.html";  // Adjust path as needed
+    esButton.className = "lang-switch";
+    esButton.innerText = "ES";
+    tools.appendChild(esButton);
+  });
+</script>
+
+
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
