@@ -16,12 +16,31 @@ $font-family-base: "Open Sans", sans-serif !default;
 /*-- scss:rules --*/
 
 body {
-  background-color: rgb(36, 36, 36);
+  
   color: white;
 }
 
+/* Make sure HTML, body, and wrapper are transparent */
+html,
+body,
+.reveal,
+.reveal-viewport,
+.reveal .slides,
+.reveal .slide-background,
+.reveal .slide-background-content {
+  
+  background-color: transparent !important;
+}
+
+/* Reset Quarto background colors */
+#quarto-content,
+#quarto-document-content {
+  background-color: transparent !important;
+}
+
+
 .reveal .slide-background-content{
-  background-color: rgb(36, 36, 36) !important;;
+  background-color: transparent !important;;
 }
 
 a {
@@ -102,12 +121,12 @@ a {
 }
 
 .reveal {
-  background-color: rgb(36, 36, 36) !important;
+  background-color: transparent !important;
 }
 
 
 .reveal-viewport {
-  background-color: rgb(36, 36, 36) !important;
+  background-color: transparent !important;
 }
 
 
