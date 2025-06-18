@@ -9,7 +9,7 @@ format: html
 
 
 
-#  PREGUNTAS<br>FREQUENTES{.splash-title}
+#  PREGUNTAS<br>FRECUENTES{.splash-title}
 
 
 <div class="bleed-section bg-party pads faqs text-center">
@@ -22,7 +22,7 @@ format: html
 
 ## *¿Cuál es el itinerario de la boda?*
 
-Habrá eventos de Jueves a Sábado. La boda será el Viernes, 5 de Diciembre. Hay eventos opcionales el Jueves por la noche (cócteles de bienvenida) y el Sábado por la tarde (dia de playa). Estamos coordinando los últimos detalles para el fin de semana y pronto compartiremos más información.
+Habrá eventos de Jueves a Sábado. La boda será el Viernes, 5 de Diciembre. Hay eventos opcionales el Jueves por la noche (cócteles de bienvenida) y el Sábado por la tarde (día de playa). Estamos coordinando los últimos detalles para el fin de semana y pronto compartiremos más información.
 
 :::
 
@@ -30,7 +30,7 @@ Habrá eventos de Jueves a Sábado. La boda será el Viernes, 5 de Diciembre. Ha
 
 ::: {.accordion}
 
-## *¿Qué días debo viajar para la celebración?*
+## *¿Qué día debo viajar para la celebración?*
 
 Se recomienda a los invitados llegar el miércoles, o jueves por la tarde, para participar en todos los eventos.
 
@@ -42,7 +42,7 @@ Se recomienda a los invitados llegar el miércoles, o jueves por la tarde, para 
 
 ## *¿A qué aeropuerto debo viajar?*
 
-El aeropuerto internacional de Santa Marta es el Aeropuerto Internacional Simón Bolívar (SMR). No hay vuelos directos desde EE. UU., pero ahi vuelos con una sola escalas razonablemente cortas en Bogotá o Panamá. El Aeropuerto Internacional Simón Bolívar (SMR) está a 10 minutos del distrito de Pozos Colorados (donde se alojarán las familias). Se puede acceder fácilmente con Uber o taxis desde el aeropuerto.
+El aeropuerto internacional de Santa Marta es el Aeropuerto Internacional Simón Bolívar (SMR). No hay vuelos directos desde EE. UU., pero hay vuelos con una escala razonablemente corta en Bogotá o Panamá. El Aeropuerto Internacional Simón Bolívar (SMR) está a 10 minutos del distrito de Pozos Colorados (donde se alojarán las familias). Se puede acceder fácilmente con Über o taxis desde el aeropuerto.
 
 :::
 
@@ -50,9 +50,9 @@ El aeropuerto internacional de Santa Marta es el Aeropuerto Internacional Simón
 
 ::: {.accordion}
 
-## *¿Dónde se hospedará los padrinos y padrinas? ¿Habrá un bloque de habitaciones o tarifa de grupo?*
+## *¿Dónde se hospedarán los novios? ¿Habrá un bloque de habitaciones o tarifa de grupo?*
 
-Los padrinos y padrinas se hospedará en el Hilton en Pozos Colorados, Santa Marta (ver la pagina de Viajes para otros hoteles). Pronto les daremos más detalles sobre la tarifa de grupo.
+Los novios se hospedarán en el Hilton en Pozos Colorados, Santa Marta (ver la pagina de [Viajes](viaje.html) para otros hoteles). Pronto les daremos más detalles sobre la tarifa de grupo.
 
 :::
 <br>
@@ -61,8 +61,15 @@ Los padrinos y padrinas se hospedará en el Hilton en Pozos Colorados, Santa Mar
 
 ## *¿Cuál es el código de vestimenta para la boda?*
 
-El código de vestimenta es formal playero. Considere telas ligeras adecuadas para un clima tropical cálido y una celebración en la playa. Para las damas, considere tacones de plataforma (no stilettos).
+El código de vestimenta es formal playero. Considere telas ligeras adecuadas para un clima de otoño tropical y cálido. 
 
+<br>
+
+Para las damas, queremos que cada una de ustedes se sienta cómoda y elegante, así que opten por vestidos fluidos, con detalles naturales. Considere tacones de plataforma (no stilettos). 
+
+<br>
+
+Para los caballeros, queremos capturar la elegancia tropical con un toque de estilo clásico. Pueden optar por un traje ligero, que evoque frescura. Agreguen un toque de sofisticación con accesorios.
 :::
 
 <br>
@@ -127,7 +134,7 @@ El Rodadero (a unos 25 minutos del aeropuerto) es un lugar animado y lleno de re
 
 ::: {.accordion}
 
-## *¿Qué actividades divertidas ahi que hacer en Santa Marta?*
+## *¿Qué actividades divertidas hay que hacer en Santa Marta?*
 
 -- Excursiones --
 
@@ -165,7 +172,7 @@ Quinta de San Pedro Alejandrino: Hacienda donde Simón Bolívar pasó sus últim
 
 <br>
 
-Museo del Oro Tairona, Casa de la Aduana: Ubicado en el edificio colonial más antiguo que se conserva en Colombia.
+Museo del Oro Tairona, Casa de la Aduana: Ubicado en el edificio colonial más antiguo que se conserva en Santa Marta.
 
 :::
 
@@ -203,8 +210,8 @@ La moneda local en Colombia es el Peso Colombiano (COP). Las tarjetas de crédit
 [Nuestra Historia](historia.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
 [Viaje](viaje.html){.theme-button}
-[Preguntas Frequentes](preguntas.html){.theme-button}
-[Confirmar Asistencia](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
+[Preguntas Frecuentes](preguntas.html){.theme-button}
+[RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
 
 
 #### Contacto:

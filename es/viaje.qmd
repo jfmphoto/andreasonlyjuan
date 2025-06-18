@@ -21,7 +21,7 @@ format: html
 
 <div class="story">
 
-Los novies se hospedarán en el Hilton Santa Marta en Pozos Colorados. Estamos finalizando los detalles para una tarifa grupal y pronto tendremos más detalles. Si prefieren reservar su viaje con anticipación, les invitamos a hacerlo.
+Los novios se hospedarán en el Hilton Santa Marta en Pozos Colorados. Estamos finalizando los detalles para una tarifa grupal y pronto tendremos más detalles. Si prefieren reservar su viaje con anticipación, los invitamos a hacerlo.
 
 </div>
 
@@ -31,7 +31,7 @@ Los novies se hospedarán en el Hilton Santa Marta en Pozos Colorados. Estamos f
 
 Carrera 2 #114-78, <br>
 Pozos Colorados, Santa Marta <br>
-Magdalena, Colombia
+Magdalena, Colombia <br>
 +57 605 435 1770
 
 </div>
@@ -40,7 +40,7 @@ Magdalena, Colombia
 
 <div class="story">
 
-For anyone interested in other hotel or AirBnB options, we recommend staying in the Pozos Colorados area due to its central location and the convenience of staying close to the wedding party. Below are some additional hotel options– 
+Si los invitados prefieren otras opciones de hoteles o AirBnB, les recomendamos que se hospedarse en el distrito Pozos Colorados. Aquí ahi otras opciones de alojamiento en esa zona--
 
 </div>
 
@@ -132,8 +132,8 @@ Tel. 035 4329400
 [Nuestra Historia](historia.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
 [Viaje](viaje.html){.theme-button}
-[Preguntas Frequentes](preguntas.html){.theme-button}
-[Confirmar Asistencia](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
+[Preguntas Frecuentes](preguntas.html){.theme-button}
+[RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
 
 
 #### Contacto:

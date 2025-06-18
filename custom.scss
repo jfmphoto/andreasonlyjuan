@@ -193,7 +193,11 @@ p {
   text-align: left;
   margin-bottom: 0;
 }
-.dates p,
+.dates p {
+  font-size: 0.8rem;
+  font-family: 'Sackers Gothic Std';
+}
+
 .dates h3 {
   font-size: 1rem;
   font-family: 'Sackers Gothic Std';
@@ -495,7 +499,7 @@ a {
     font-size: 0.6em;
   }
   .splash-title{
-    font-size: 2em;
+    font-size: 1.8em;
   }
   .faqs p
   {
@@ -527,7 +531,7 @@ a {
   }
 
   .splash-title{
-    font-size: 1.7em;
+    font-size: 1.5em;
   }
   .highlight-heading {
     font-size: 1.5em !important;
@@ -705,7 +709,7 @@ a {
 .story,
 .story p{
   font-size: 1em;
-  font-family: "Didot LT Italic";
+  font-family: "Didot LT Italic" !important;
 }
 
 .center-flex {

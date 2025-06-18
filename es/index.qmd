@@ -6,7 +6,7 @@ lang: es
 
 ![](/images/banner1.jpg "La Tayrona"){#home .full-width-image}
 
-# SÍ QUIERO <br>EN SANTA <br>MARTA{.splash-title}
+# NUESTRA BODA <br>EN SANTA <br>MARTA{.splash-title}
 
 #
 
@@ -41,7 +41,7 @@ Manténganse al tanto de las novedades de nuestra celebración ¡Estamos emocion
 <div class="bleed-section bg-party text-center">
 
 <div class="pt-4"><br>
-AQUÍ HAY UNA VISTA PREVIA
+AQUÍ HAY UNA VISTA DE
 </div>
 
 ## <br><span class="highlight-heading">*NUESTRA BODA*</span> {.no-anchor .text-center .no-margin-top}
@@ -55,7 +55,7 @@ AQUÍ HAY UNA VISTA PREVIA
 
 ### December 4th 
 
-recepción nocturna de vienvenida
+recepción de bienvenida
 </div>
 
 
@@ -78,7 +78,7 @@ día de nuestra boda
 
 ### December 6th  
 
-fiesta posterior playera
+día de playa
 </div>
 
 
@@ -133,8 +133,8 @@ fiesta posterior playera
 [Nuestra Historia](historia.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
 [Viaje](viaje.html){.theme-button}
-[Preguntas Frequentes](preguntas.html){.theme-button}
-[Confirmar Asistencia](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
+[Preguntas Frecuentes](preguntas.html){.theme-button}
+[RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
 
 
 #### Contacto:
