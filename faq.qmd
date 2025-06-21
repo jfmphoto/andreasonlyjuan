@@ -37,7 +37,7 @@ format: html
 
 :::
 
-<br>
+
 <br>
 
 <div class="bleed-section bg-party pads text-center">
@@ -273,7 +273,7 @@ The local currency in Colombia is the Colombian Peso (COP). Credit/debit cards a
 
 :::{.text-center}
 
-<br>
+
 <br>
 
 

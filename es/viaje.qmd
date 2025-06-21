@@ -11,19 +11,30 @@ format: html
 
 #
 
-<div class="bleed-section bg-party">
+<div class="bleed-section bg-party pads">
 
-::: columns
+::: {.grid}
 
-::: {.column width="50%"}
-
-<br> 
+::: {.g-col-6}
 
 <div class="story">
 
 Los novios se hospedarán en el Hilton Santa Marta en Pozos Colorados. Estamos finalizando los detalles para una tarifa grupal y pronto tendremos más detalles. Si prefieren reservar su viaje con anticipación, los invitamos a hacerlo.
 
 </div>
+
+:::
+
+::: {.g-col-6}
+
+:::
+:::
+
+<br>
+
+::: {.grid}
+
+::: {.g-col-6}
 
 #### <br><span class="highlight-heading">*[Hilton Santa Marta](https://www.hilton.com/en/hotels/smrcnhh-hilton-santa-marta/)*</span> {.no-anchor .no-margin-top}
 
@@ -36,21 +47,10 @@ Magdalena, Colombia <br>
 
 </div>
 
-<br>
-
-<div class="story">
-
-Si los invitados prefieren otras opciones de hoteles o AirBnB, les recomendamos que se hospedarse en el distrito Pozos Colorados. Aquí ahi otras opciones de alojamiento en esa zona--
-
-</div>
-
 :::
-::: {.column width="50%"}
 
-::: {.columns}
 
-::: {.column width="100%"}
-
+::: {.g-col-6}
 ![](images/hilton-exterior.jpg
 ){width=100%}
 
@@ -58,15 +58,34 @@ Si los invitados prefieren otras opciones de hoteles o AirBnB, les recomendamos 
 :::
 
 :::
+
+<br>
+<br>
+
+::: {.grid}
+
+
+::: {.g-col-6}
+
+<div class="story">
+
+Si los invitados prefieren otras opciones de hoteles o AirBnB, les recomendamos que se hospeden en el distrito Pozos Colorados. Aquí ahi otras opciones de alojamiento en esa zona--
+
+</div>
+
 :::
+
 :::
+
+<br>
 
 
 <div class= "text-center"> 
 
-::: columns
 
-::: {.column width="30%"}
+::: {.grid}
+
+::: {.g-col-4}
 
 Hotel Mercure 
 
@@ -74,7 +93,10 @@ Calle 115 NO 2 39 Bello Horizonte
 
 Tel. 035 4368484 
 
-<br><br>
+
+::: 
+
+::: {.g-col-4}
 
 Hotel Zuana Beach Resort 
 
@@ -83,9 +105,9 @@ Cra. 2 #6-80, Bello Horizonte
 Tel. 035 4380011 
 
 
-:::
+::: 
 
-::: {.column width="30%"}
+::: {.g-col-4}
 
 Hotel Estelar Santamar 
 
@@ -93,7 +115,10 @@ Kilometro 8 Sector de Pozos Colorados
 
 Tel. 035 4328181 
 
-<br><br>
+
+::: 
+
+::: {.g-col-4}
 
 Hotel Irotama 
 
@@ -102,9 +127,9 @@ Irotama Resort By Karisma Km. 14 vía a Ciénaga, Santa Marta, Magdalena
 Tel. 035 4380600
 
 
-:::
+::: 
 
-::: {.column width="30%"}
+::: {.g-col-4}
 
 Hoteles Santorini – Regency 
 

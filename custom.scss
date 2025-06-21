@@ -270,6 +270,9 @@ a {
     .g-col-6 {
     grid-column: span 12 !important;
     }
+    .g-col-4 {
+    grid-column: span 6 !important;
+    }
   }
 
   @media (max-width: 480px) { // Phones
@@ -279,6 +282,9 @@ a {
   padding: 1em 1em;
     }
   .g-col-6 {
+    grid-column: span 12 !important;
+    }
+    .g-col-4 {
     grid-column: span 12 !important;
     }
   }

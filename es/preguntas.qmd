@@ -40,7 +40,7 @@ format: html
 
 <div class="bleed-section bg-party pads faqs text-center">
 
-<br>
+
 
 
 <div id="wedding" class="faq-group  m-fadeIn">
@@ -62,7 +62,6 @@ Habrá eventos de Jueves a Sábado. La boda será el Viernes, 5 de Diciembre. Ha
 
 Se recomienda a los invitados llegar el miércoles, o jueves por la tarde, para participar en todos los eventos.
 
-:
 :::
 
 ::: {.g-col-6}
@@ -196,7 +195,6 @@ Sí, hay fácil acceso a Uber en Santa Marta.
 
 
 </div>
-
 
 
 <div id="misce" class="faq-group m-fadeOut">
