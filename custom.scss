@@ -186,6 +186,8 @@ h3, h4, h5, h6 {
   font-style: normal;
 }
 
+
+
 p {
   font-family: 'Didot LT Std'; /* Apply your custom font */
   font-weight: 100;
@@ -201,21 +203,18 @@ p {
 .dates h3 {
   font-size: 1rem;
   font-family: 'Sackers Gothic Std';
-  
+
+  position: relative;
+  left: 0.5em;
 }
-.dates .anchored {
-  margin: translate(0.6em, 0%)
-   
-}
+
 
 .faqs p,
 .faqs h2,
 .faqs h3 {
   font-family: 'Didot LT Std'; 
   
-}
-.faqs .anchored {
-  margin: translate(0.6em, 0%)
+  
 }
 
 .no-anchor .anchor {
@@ -523,6 +522,9 @@ a {
   {
   
     font-size: calc(1rem + 0.48vw);
+
+
+
     
   }
 
@@ -814,16 +816,24 @@ a {
 
   .faq-group p{
 
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-family: 'Didot LT Std';
 
   }
 
   .faq-group h2{
 
-    font-size: 1.2rem;
+    font-size: 1.3rem;
+    font-weight: bold;
     font-family: 'Didot LT Std';
+    
 
+  }
+
+  .anchored{
+
+    position: relative;
+    left: 0.4em;
   }
 
   .faq-group h1{

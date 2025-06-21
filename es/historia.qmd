@@ -61,7 +61,7 @@ Ahora, enamorados y listos para su siguiente capítulo.
 
 
 <iframe id="reveal-iframe" 
-        src="revel1.html" 
+        src="/revel1.html" 
         width="100%" 
         height="650px" 
         style="border: none; background: transparent;" 

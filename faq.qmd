@@ -75,7 +75,7 @@ The dress code is beach formal. Consider light, airy fabrics suitable for warm, 
 <br>
 <br>
 
-For the ladies, we want each of you to feel comfortable and elegant, so opt for flowing dresses with natural details. Consider platform heels (not stilettos). Consider platform heels (no stilettos).
+For the ladies, we want each of you to feel comfortable and elegant, so opt for flowing dresses with natural details. Consider platform heels (not stilettos). 
 
 <br>
 <br>
@@ -127,7 +127,7 @@ The wedding party will be staying at the Hilton in Pozos Colorados, Santa Marta 
 
 ## *What areas of town should we look into?*
 
-The wedding party will be staying in Pozos Colorado. It is a quieter beachfront area with beautiful views, plenty of hotel options, and a more peaceful vibe. It is also ~10-15 minutes away from the airport, the wedding vanue, and downtown Santa Marta. Other options –
+The wedding party will be staying in Pozos Colorado. It is a quieter beachfront area with beautiful views, plenty of hotel options, and a more peaceful vibe. It is also ~10-15 minutes away from the airport, the wedding venue, and downtown Santa Marta. Other options –
 
 <br>
 
@@ -257,7 +257,7 @@ The local currency in Colombia is the Colombian Peso (COP). Credit/debit cards a
 </div>
 
 <br>
-<br>
+
 
 </div>
 
@@ -273,8 +273,6 @@ The local currency in Colombia is the Colombian Peso (COP). Credit/debit cards a
 
 :::{.text-center}
 
-
-<br>
 
 
 [Our Story](story.html){.theme-button} 
