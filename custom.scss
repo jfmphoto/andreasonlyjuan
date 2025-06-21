@@ -266,7 +266,10 @@ a {
     margin: 0 5%;
     .pads{
   padding: 1em 2em;
-}
+        }
+    .g-col-6 {
+    grid-column: span 12 !important;
+    }
   }
 
   @media (max-width: 480px) { // Phones
@@ -274,7 +277,10 @@ a {
     margin: 0px; // Fixed margin for very small screens
     .pads{
   padding: 1em 1em;
-}
+    }
+  .g-col-6 {
+    grid-column: span 12 !important;
+    }
   }
 }
 
@@ -737,30 +743,86 @@ a {
 
 
 
-.accordion {
-  border: none; /* Remove the border if you don't want it */
-  margin-bottom: 10px;
+  .accordion {
+    border: none; /* Remove the border if you don't want it */
+    margin-bottom: 10px;
+    overflow: hidden;
+  }
+
+  .accordion > h3 {
+    background: none; /* No background */
+    margin: 0;
+    padding: 0; /* Remove padding */
+    cursor: pointer;
+  }
+
+  .accordion > div {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease-out;
+  }
+
+  .accordion.open > div {
+    max-height: 800px; /* Use a bigger number if needed */
+    transition: max-height 0.5s ease-in;
+  }
+
+  .accordion > h3:hover {
+    text-decoration: underline;
+  }
+
+
+  
+  .faq-toggle {
+    display: block;
+   
+  }
+
+
+
+  .faq-tab-link {
+    font-size: 1rem;
+    font-family: 'Sackers Gothic Std';
+    text-align: center;
+    color: $dark-gray;
+    border-bottom: 1px solid;
+  visibility: visible;
+  transition: visibility 0s linear 0s, opacity 300ms ease-in-out;
   overflow: hidden;
-}
+  }
 
-.accordion > h3 {
-  background: none; /* No background */
-  margin: 0;
-  padding: 0; /* Remove padding */
-  cursor: pointer;
-}
-
-.accordion > div {
+/* Hidden state (fade out) */
+.m-fadeOut {
   max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.4s ease-out;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s linear 300ms, opacity 300ms ease-in-out;
 }
 
-.accordion.open > div {
-  max-height: 800px; /* Use a bigger number if needed */
-  transition: max-height 0.5s ease-in;
+/* Visible state (fade in) */
+.m-fadeIn {
+  visibility: visible;
+  opacity: 1;
+  transition: visibility 0s linear 0s, opacity 300ms ease-in-out;
 }
 
-.accordion > h3:hover {
-  text-decoration: underline;
-}
+  .faq-group p{
+
+    font-size: 0.8rem;
+    font-family: 'Didot LT Std';
+
+  }
+
+  .faq-group h2{
+
+    font-size: 1.2rem;
+    font-family: 'Didot LT Std';
+
+  }
+
+  .faq-group h1{
+
+    font-size: 1.3rem;
+    font-family: 'Didot LT Std';
+
+  }

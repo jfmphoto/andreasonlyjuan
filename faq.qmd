@@ -7,30 +7,57 @@ format: html
 ![](images/faq.jpg "La Tayrona"){#home .full-width-image}
 
 
+# FAQs {.splash-title}
 
-
-#  FAQs{.splash-title}
-
-
-<div class="bleed-section bg-party pads faqs text-center">
 
 
 #
 
+::: {.columns .text-center}
+
+::: {.column width="33%"}
+
+## <a href="#FAQs" class="faq-tab-link" data-target="wedding">Wedding Day</a>
+
+:::
+
+::: {.column width="33%"}
+
+## <a href="#FAQs" class="faq-tab-link" data-target="travel">Travel & Stay</a>
+
+:::
+
+::: {.column width="33%"}
+
+## <a href="#FAQs" class="faq-tab-link" data-target="misce">Misc</a>
+
+:::
 
 
-::: {.accordion}
+
+:::
+
+<br>
+<br>
+
+<div class="bleed-section bg-party pads text-center">
+ 
+ <br>
+
+
+<div id="wedding" class="faq-group  m-fadeI data-prevent-snap">
+
+
+::: {.grid}
+
+::: {.g-col-6}
 
 ## *What is the itinerary for the weekend?*
-
 There will be wedding events Thursday-Saturday. Our big day will be on Friday, December 5th. There are optional events Thursday evening (welcome cocktails) and Saturday afternoon (beach club).  We are coordinating the final details for the weekend and will have more to share soon.  
 
 :::
 
-<br> 
-
-::: {.accordion}
-
+::: {.g-col-6}
 ## *What days should I fly in for the celebration?*
 
  
@@ -39,45 +66,26 @@ Guests are encouraged to arrive Wednesday or Thursday afternoon to be part of al
 
 :::
 
-
-<br>
-
-::: {.accordion}
-
-## *What airport should I fly into?*
-
-
- Santa Marta’s international airport is Simón Bolívar International Airport (SMR). There aren’t any direct flights from the US, but there are one stop flights from the Miami/Ft. Lauderdale and the New York area with reasonably short layovers in Bogota or Panama. Simón Bolívar International Airport (SMR) is 10 minutes from the Pozos Colorados district (where the wedding party will be staying in). Uber and local taxis are easily accessible from the airport.
- 
-
-:::
-
-<br>
-
-::: {.accordion}
-
-## *Where is the wedding party staying? Will there be a room block or group rate?*
-
-The wedding party will be staying at the Hilton in Pozos Colorados, Santa Marta (see travel tab on our site). We will follow-up with more details on the group rate soon. 
-
-
-:::
-<br>
-
-::: {.accordion}
-
+::: {.g-col-6}
 ## *What is the dress code for the wedding?*
 
 
-The dress code is beach formal. Consider light, airy fabrics suitable for warm, tropical climate and a celebration by the beach. For the ladies, consider platform heels (no stilettos). 
- 
-
-:::
+The dress code is beach formal. Consider light, airy fabrics suitable for warm, tropical climate and a celebration by the beach.  
 
 <br>
+<br>
 
-::: {.accordion}
+For the ladies, we want each of you to feel comfortable and elegant, so opt for flowing dresses with natural details. Consider platform heels (not stilettos). Consider platform heels (no stilettos).
 
+<br>
+<br>
+
+For the gentlemen, we want to capture tropical elegance with a touch of classic style. You can opt for a light suit that evokes freshness. Add a touch of sophistication with accessories.
+
+ 
+:::
+
+::: {.g-col-6}
 ## *Will the ceremony reception be indoors or outdoors?*
 
 
@@ -85,41 +93,37 @@ The ceremony and reception will be held outdoors.
 
 :::
 
-<br>
+::: 
+</div> 
 
-::: {.accordion}
+<div id="travel" class="faq-group m-fadeOut data-prevent-snap">
 
-## *What’s the weather like in December?*
 
-Daytime highs range between 85–90°F (29–32°C) with nighttime lows between 73–77°F (23–25°C) with humidity throughout the day. Make sure to bring your sunscreen and light layers for ocean breezes at night!
+::: {.grid}
+
+::: {.g-col-6}
+
+## *What airport should I fly into?*
+
+
+ Santa Marta’s international airport is Simón Bolívar International Airport (SMR). There aren’t any direct flights from the US, but there are one stop flights from the Miami/Ft. Lauderdale and the New York area with reasonably short layovers in Bogota or Panama. Simón Bolívar International Airport (SMR) is 10 minutes from the Pozos Colorados district (where the wedding party will be staying in). Uber and local taxis are easily accessible from the airport.
+ 
  
 
-:::
+::: 
 
-<br>
+::: {.g-col-6}
 
-::: {.accordion}
+## *Where is the wedding party staying? Will there be a room block or group rate?*
 
-## *Is Santa Marta generally safe?*
+The wedding party will be staying at the Hilton in Pozos Colorados, Santa Marta (see [Travel](travel.html) tab on our site). We will follow-up with more details on the group rate soon. 
 
-Yes! Like any foreign destination, we recommend standard precautions – but Santa Marta is a lovely coastal town known for its relaxed vibe, friendly locals, and beautiful landscapes. As long as you stay aware of your surroundings, you’ll be able to enjoy all the beauty the city has to offer.
  
 
-:::
 
-<br>
+::: 
 
-::: {.accordion}
-
-## *Is Uber available in Santa Marta?*
-
-Yes, uber is easily accessible in Santa Marta.
-
-:::
-
-<br>
-
-::: {.accordion}
+::: {.g-col-6}
 
 ## *What areas of town should we look into?*
 
@@ -133,12 +137,11 @@ Centro Histórico (~30 minutes from the airport). It’s busier and farther from
 
 El Rodadero (~25 minutes from the airport) is lively and full of restaurants and nightlife although it can be very touristy.
 
+ 
 
-:::
+::: 
 
-<br>
-
-::: {.accordion}
+::: {.g-col-6}
 
 ## *What are some fun things to do in Santa Marta?*
 
@@ -180,24 +183,66 @@ Quinta de San Pedro Alejandrino – Hacienda where Simón Bolivar spent his last
 <br>
 
 Museo del Oro Tairona, Casa de la Aduana – Museum of gold housed in the oldest surviving colonial-era building in Colombia.
+ 
+
+
+::: 
+
+::: {.g-col-6}
+
+## *Is Santa Marta generally safe?*
+
+Yes! Like any foreign destination, we recommend standard precautions – but Santa Marta is a lovely coastal town known for its relaxed vibe, friendly locals, and beautiful landscapes. As long as you stay aware of your surroundings, you’ll be able to enjoy all the beauty the city has to offer.
+ 
+ 
+
+::: 
+
+
+::: {.g-col-6}
+
+
+## *Is Uber available in Santa Marta?*
+
+Yes, uber is easily accessible in Santa Marta.
+
 
 
 :::
 
-<br>
+:::
 
-::: {.accordion}
+</div>
+
+
+
+<div id="misce" class="faq-group m-fadeOut data-prevent-snap">
+
+
+
+:::  {.grid}
+
+
+::: {.g-col-6}
+  
+## *What’s the weather like in December?*
+
+Daytime highs range between 85–90°F (29–32°C) with nighttime lows between 73–77°F (23–25°C) with humidity throughout the day. Make sure to bring your sunscreen and light layers for ocean breezes at night!
+ 
+:::  
+
+
+::: {.g-col-6}
 
 ## *Do I need a visa to visit Colombia? Any passport requirements?*
 
 Most visitors from the U.S., Canada, and the EU don’t need a visa—just a valid passport. Please ensure your passport is not set to expire less than six months post December 2025.
- 
+  
 
-:::
+:::  
 
-<br>
 
-::: {.accordion}
+::: {.g-col-6}
 
 ## *What is the local currency in Colombia?*
 
@@ -205,16 +250,32 @@ The local currency in Colombia is the Colombian Peso (COP). Credit/debit cards a
 
 :::
 
-<br><br>
+:::
 
- </div>
- 
+
+
+</div>
+
+<br>
+<br>
+
+</div>
+
+
+
+
+
+</div>
+
+
 
 
 
 :::{.text-center}
+
 <br>
 <br>
+
 
 [Our Story](story.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
@@ -232,17 +293,33 @@ If you have any questions, feel free to reach out to us!
 
 :::
 
-
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  const accordions = document.querySelectorAll('.accordion');
+document.addEventListener("DOMContentLoaded", function () {
+  const tabs = document.querySelectorAll(".faq-tab-link");
+  const sections = document.querySelectorAll(".faq-group");
 
-  accordions.forEach((accordion) => {
-    const header = accordion.querySelector('h3');
-    header.addEventListener('click', function() {
-      accordion.classList.toggle('open');
+  tabs.forEach(tab => {
+    tab.addEventListener("click", () => {
+      const targetId = tab.getAttribute("data-target");
+
+      // 💾 Save current scroll position
+      const scrollY = window.scrollY;
+
+      sections.forEach(section => {
+        const isTarget = section.id === targetId;
+        section.classList.remove("m-fadeIn", "m-fadeOut");
+        section.classList.add(isTarget ? "m-fadeIn" : "m-fadeOut");
+      });
+
+      // 🔁 Restore scroll position after DOM update
+      window.scrollTo({ top: scrollY });
     });
   });
 });
 </script>
 
+<script>
+  setTimeout(() => {
+  window.scrollTo({ top: scrollY });
+}, 10); // wait for fade out to apply
+</script>

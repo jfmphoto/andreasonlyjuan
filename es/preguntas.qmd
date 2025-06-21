@@ -12,13 +12,43 @@ format: html
 #  PREGUNTAS<br>FRECUENTES{.splash-title}
 
 
+::: {.columns .text-center}
+
+::: {.column width="33%"}
+
+## <a href="#PREGUNTAS<br>FRECUENTES" class="faq-tab-link" data-target="wedding">Día de Boda</a>
+
+:::
+
+::: {.column width="33%"}
+
+## <a href="#PREGUNTAS<br>FRECUENTES" class="faq-tab-link" data-target="travel">Viaje & Hospedaje</a>
+
+:::
+
+::: {.column width="33%"}
+
+## <a href="#PREGUNTAS<br>FRECUENTES" class="faq-tab-link" data-target="misce">General</a>
+
+:::
+
+
+
+:::
+
+
+
 <div class="bleed-section bg-party pads faqs text-center">
 
+<br>
 
-#
+
+<div id="wedding" class="faq-group  m-fadeIn">
 
 
-::: {.accordion}
+::: {.grid}
+
+::: {.g-col-6}
 
 ## *¿Cuál es el itinerario de la boda?*
 
@@ -26,38 +56,16 @@ Habrá eventos de Jueves a Sábado. La boda será el Viernes, 5 de Diciembre. Ha
 
 :::
 
-<br>
-
-::: {.accordion}
+::: {.g-col-6}
 
 ## *¿Qué día debo viajar para la celebración?*
 
 Se recomienda a los invitados llegar el miércoles, o jueves por la tarde, para participar en todos los eventos.
 
+:
 :::
 
-<br>
-
-::: {.accordion}
-
-## *¿A qué aeropuerto debo viajar?*
-
-El aeropuerto internacional de Santa Marta es el Aeropuerto Internacional Simón Bolívar (SMR). No hay vuelos directos desde EE. UU., pero hay vuelos con una escala razonablemente corta en Bogotá o Panamá. El Aeropuerto Internacional Simón Bolívar (SMR) está a 10 minutos del distrito de Pozos Colorados (donde se alojarán las familias). Se puede acceder fácilmente con Über o taxis desde el aeropuerto.
-
-:::
-
-<br>
-
-::: {.accordion}
-
-## *¿Dónde se hospedarán los novios? ¿Habrá un bloque de habitaciones o tarifa de grupo?*
-
-Los novios se hospedarán en el Hilton en Pozos Colorados, Santa Marta (ver la pagina de [Viajes](viaje.html) para otros hoteles). Pronto les daremos más detalles sobre la tarifa de grupo.
-
-:::
-<br>
-
-::: {.accordion}
+::: {.g-col-6}
 
 ## *¿Cuál es el código de vestimenta para la boda?*
 
@@ -72,9 +80,8 @@ Para las damas, queremos que cada una de ustedes se sienta cómoda y elegante, a
 Para los caballeros, queremos capturar la elegancia tropical con un toque de estilo clásico. Pueden optar por un traje ligero, que evoque frescura. Agreguen un toque de sofisticación con accesorios.
 :::
 
-<br>
+::: {.g-col-6}
 
-::: {.accordion}
 
 ## *¿La recepción de la ceremonia será en un lugar cerrado o al aire libre?*
 
@@ -82,39 +89,34 @@ La ceremonia y la recepción se realizarán al aire libre.
 
 :::
 
-<br>
 
-::: {.accordion}
 
-## *¿Cómo es el clima en Diciembre?*
+::: 
+</div> 
 
-Las temperaturas máximas son entre 29 y 32 °C (85 y 90 °F) y las mínimas entre 23 y 25 °C (73 y 77 °F) con humedad durante todo el día. ¡Asegúrate de llevar protector solar y ropa ligera para la brisa marina por la noche!
+<div id="travel" class="faq-group m-fadeOut">
 
-:::
 
-<br>
+::: {.grid}
 
-::: {.accordion}
+::: {.g-col-6}
 
-## *¿Es Santa Marta segura en general?*
+## *¿A qué aeropuerto debo viajar?*
 
-¡Sí! Como en cualquier destino extranjero, recomendamos tomar las precauciones habituales, pero Santa Marta es una encantadora ciudad costeña conocida por su ambiente relajado, sus amables habitantes y sus hermosos paisajes. Podrás disfrutar de toda la belleza que ofrece la ciudad.
+El aeropuerto internacional de Santa Marta es el Aeropuerto Internacional Simón Bolívar (SMR). No hay vuelos directos desde EE. UU., pero hay vuelos con una escala razonablemente corta en Bogotá o Panamá. El Aeropuerto Internacional Simón Bolívar (SMR) está a 10 minutos del distrito de Pozos Colorados (donde se alojarán las familias). Se puede acceder fácilmente con Über o taxis desde el aeropuerto.
 
-:::
+::: 
 
-<br>
+::: {.g-col-6}
 
-::: {.accordion}
+## *¿Dónde se hospedarán los novios? ¿Habrá un bloque de habitaciones o tarifa de grupo?*
 
-## *¿Hay Uber disponible en Santa Marta?*
+Los novios se hospedarán en el Hilton en Pozos Colorados, Santa Marta (ver la pagina de [Viajes](viaje.html) para otros hoteles). Pronto les daremos más detalles sobre la tarifa de grupo.
 
-Sí, hay fácil acceso a Uber en Santa Marta.
+::: 
 
-:::
 
-<br>
-
-::: {.accordion}
+::: {.g-col-6}
 
 ## *¿Qué zonas de la ciudad deberíamos considerar?*
 
@@ -130,10 +132,8 @@ El Rodadero (a unos 25 minutos del aeropuerto) es un lugar animado y lleno de re
 
 :::
 
-<br>
 
-::: {.accordion}
-
+::: {.g-col-6}
 ## *¿Qué actividades divertidas hay que hacer en Santa Marta?*
 
 -- Excursiones --
@@ -176,9 +176,45 @@ Museo del Oro Tairona, Casa de la Aduana: Ubicado en el edificio colonial más a
 
 :::
 
-<br>
+::: {.g-col-6}
 
-::: {.accordion}
+## *¿Es Santa Marta segura en general?*
+
+¡Sí! Como en cualquier destino extranjero, recomendamos tomar las precauciones habituales, pero Santa Marta es una encantadora ciudad costeña conocida por su ambiente relajado, sus amables habitantes y sus hermosos paisajes. Podrás disfrutar de toda la belleza que ofrece la ciudad.
+
+:::
+
+::: {.g-col-6}
+
+## *¿Hay Uber disponible en Santa Marta?*
+
+Sí, hay fácil acceso a Uber en Santa Marta.
+
+:::
+
+:::
+
+
+</div>
+
+
+
+<div id="misce" class="faq-group m-fadeOut">
+
+
+:::  {.grid}
+
+::: {.g-col-6}
+
+
+## *¿Cómo es el clima en Diciembre?*
+
+Las temperaturas máximas son entre 29 y 32 °C (85 y 90 °F) y las mínimas entre 23 y 25 °C (73 y 77 °F) con humedad durante todo el día. ¡Asegúrate de llevar protector solar y ropa ligera para la brisa marina por la noche!
+
+:::
+
+
+::: {.g-col-6}
 
 ## *¿Necesito visa para visitar Colombia? ¿Hay algún requisito de pasaporte?*
 
@@ -186,9 +222,7 @@ La mayoría de los visitantes de EE. UU., Canadá y Europa no necesitan visa, so
 
 :::
 
-<br>
-
-::: {.accordion}
+::: {.g-col-6}
 
 ## *¿Cuál es la moneda local en Colombia?*
 
@@ -196,11 +230,14 @@ La moneda local en Colombia es el Peso Colombiano (COP). Las tarjetas de crédit
 
 :::
 
-<br><br>
+:::
 
- </div>
+</div>
+
+<br>
+
  
-
+</div>
 
 
 :::{.text-center}
@@ -223,17 +260,23 @@ Si tienes alguna pregunta, ¡no dudes en contactarnos!
 
 :::
 
-
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  const accordions = document.querySelectorAll('.accordion');
+document.addEventListener("DOMContentLoaded", function () {
+  const tabs = document.querySelectorAll(".faq-tab-link");
+  const sections = document.querySelectorAll(".faq-group");
 
-  accordions.forEach((accordion) => {
-    const header = accordion.querySelector('h3');
-    header.addEventListener('click', function() {
-      accordion.classList.toggle('open');
+  tabs.forEach(tab => {
+    tab.addEventListener("click", () => {
+      const targetId = tab.getAttribute("data-target");
+
+      sections.forEach(section => {
+        const isTarget = section.id === targetId;
+        section.classList.remove("m-fadeIn", "m-fadeOut");
+        section.classList.add(isTarget ? "m-fadeIn" : "m-fadeOut");
+      });
     });
   });
 });
 </script>
+
 

@@ -1046,16 +1046,47 @@ $bg-colog: #fbf4e9;
 $red: #ff0000;
 $white: #ffffff !default;
 $black: #000000 !default;
-$light-gray: #f8f9fa !default;
+$light-gray: #F2E8D5 !default;
 $dark-gray: #212529 !default;
-$font-family-base: "Open Sans", sans-serif !default;
+$font-family-base: "Playfair Display", "Open Sans", sans-serif !default;
+$link-brown: #8B5E3C;
+$light-brown: #e8ae82 ;
+
 
 @font-face {
-  font-family: 'chillen'; /* Name of your font */
-  src: url('fonts/Chillen.ttf') format('truetype'); /* Reference your .ttf file */
+  font-family: 'chillen';
+  src: url('fonts/Chillen.ttf') format('truetype');
   font-weight: lighter;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Didot LT Std';
+  src: url('fonts/DidotLTStd-Roman.otf') format('opentype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Didot LT Italic';
+  src: url('fonts/DidotLTStd-Italic.otf') format('opentype');
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Sackers Gothic Std';
+  src: url('fonts/SackersGothicStd-Light.otf') format('opentype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Notera';
+  src: url('fonts/Notera.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 :root {
   --button-bg: #fbf4e9;
   --button-text: black;
@@ -1063,6 +1094,59 @@ $font-family-base: "Open Sans", sans-serif !default;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
+
+/* Layout control for navbar inner container */
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+/* Brand (title/logo) on the left */
+.navbar-brand-container {
+  order: 0;
+  margin-right: auto;
+}
+
+/* Hamburger on far left */
+.navbar-toggler {
+  order: 1;
+  margin-left: 0.75rem;
+}
+
+/* Language switch button on far right */
+.lang-switch {
+  order: 3;
+  margin-right: 0.75rem;
+  background-color: #f0f0f0;
+  color: black;
+  padding: 6px 14px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  text-decoration: none;
+  font-family: 'Sackers Gothic Std';
+  font-size: 0.85rem;
+  transition: background-color 0.2s ease;
+}
+
+.lang-switch:hover {
+  background-color: #e8ae82;
+  color: white;
+  border-color: #e8ae82;
+}
+
+/* Optional: hide the default menu until toggled */
+.navbar-collapse {
+  order: 2;
+  flex-grow: 1;
+}
+
+
+
+
+
 
 
 
@@ -3236,8 +3320,7 @@ $nested-kbd-font-weight:            null !default; // Deprecated in v5.2.0, remo
 $pre-bg:                            $code-bg  !default;
 $pre-color:                         $body-emphasis-color !default;
 $pre-line-height:                   $line-height-base !default;
-$grid-sidebar-width: 0px;
-$grid-margin-width: 0px;
+
 
 
 
@@ -12790,42 +12873,121 @@ main.quarto-banner-title-block > section:first-child > h4 {
 main {
   margin-top: 0 px;
 }
+
+
+.navbar-brand-container{
+
+ display: none; 
+}
+.notera-line {
+  font-family: 'Notera', cursive;
+  font-size: 2em; /* optional for emphasis */
+  display: block; 
+}
+
+
+
+
 /* Apply Chillen to headers */
 h1, h2  {
-  font-family: 'Chillen';
+  font-family: 'Playfair Display';
+   border-bottom: none;
+}
+
+.no-margin-top{
+  margin-top: 0;
 }
 
 .splash-title {
-  text-align: left;
-  font-size: 2.5em;
+  text-align: center;
+  font-size: 2.0em;
   font-weight: normal;
+  font-family: 'Didot LT Std';
+}
+
+.text-center{
+  text-align: center;
+  justify-content: center; 
+}
+
+.text-left{
+  text-align: left;
+  justify-content: left; 
+}
+
+.text-center p{
+  text-align: center;
+  justify-content: center; 
 }
 
 .story-title {
   text-align: left;
   font-size: 2.2em;
   font-weight: normal;
+  font-family: "Didot LT Std";
 }
 
 
-body, h3, h4, h5, h6, p {
-  font-family: 'Open Sans', serif;/* Apply your custom font */
+body{
+  font-family: 'Didot LT Std';  // Apply your custom font */
   background-color: $bg-colog;
   color: black;
   font-weight: 100;
   font-style: normal;
 }
 
+h3, h4, h5, h6 {
+  font-family:'Didot LT Std';/* Apply your custom font */
+  font-weight: 100;
+  font-style: normal;
+}
+
+p {
+  font-family: 'Didot LT Std'; /* Apply your custom font */
+  font-weight: 100;
+  font-style: normal;
+  text-align: left;
+  margin-bottom: 0;
+}
+.dates p {
+  font-size: 0.8rem;
+  font-family: 'Sackers Gothic Std';
+}
+
+.dates h3 {
+  font-size: 1rem;
+  font-family: 'Sackers Gothic Std';
+  
+}
+.dates .anchored {
+  margin: translate(0.6em, 0%)
+   
+}
+
+.faqs p,
+.faqs h2,
+.faqs h3 {
+  font-family: 'Didot LT Std'; 
+  
+}
+.faqs .anchored {
+  margin: translate(0.6em, 0%)
+}
+
+.no-anchor .anchor {
+  display: none;
+}
+
 
 a {
-  color: #8B5E3C; // Light tan accent
+  color: $light-brown; // Light tan accent
   text-decoration: none;
-  border-bottom: 2px solid rgba(139, 94, 60, 0.4);
+  border-bottom: 2px solid $light-brown;
   transition: all 0.3s ease;
 
   &:hover {
-    color: #A47450; // Slightly darker tan
-    border-bottom: 2px solid #A47450;
+    color: $link-brown; // Slightly darker tan
+    border-bottom: 2px solid;
   }
 }
 
@@ -12858,17 +13020,33 @@ a {
   @media (max-width: 975px) { // Tablets & Large Phones
   
     margin: 0 5%;
+    .pads{
+  padding: 1em 2em;
+        }
+    .g-col-6 {
+    grid-column: span 12 !important;
+    }
   }
 
   @media (max-width: 480px) { // Phones
    
     margin: 0px; // Fixed margin for very small screens
+    .pads{
+  padding: 1em 1em;
+    }
+  .g-col-6 {
+    grid-column: span 12 !important;
+    }
   }
 }
 
+.column {
+  padding: 10px;
+  // text-align: center; // NEW: Centers text horizontally
+}
 
-.column  {
-  padding:0 10px 0 10px;
+.center-text {
+  text-align: center;
 }
 
 @media (max-width: 480px) { // Adjust layout for tablets and phones
@@ -12889,7 +13067,6 @@ a {
   gap: 0rem; /* Optional: Adds space between columns */
 }
 
-
 /* Add border around navbar links */
 .navbar-nav .nav-link {
   border: 2px solid #333; /* Border color */
@@ -12897,43 +13074,58 @@ a {
   border-radius: 3px; /* Optional: rounded corners */
   margin: 5px; /* Space between links */
   transition: all 0.3s ease-in-out; /* Smooth hover effect */
+  display: inline-block;
 }
 
-/* Hover effect */
+/* Style the text inside the nav-link */
+.navbar-nav .nav-link .menu-text {
+  font-size: 12px;
+  font-family: 'Sackers Gothic Std';
+  transition: all 0.3s ease-in-out;
+}
+
+/* Hover effect on nav-link also changes the text */
 .navbar-nav .nav-link:hover {
   background-color: #f0f0f0; /* Light gray hover effect */
   border-color: #555; /* Darker border on hover */
-
 }
 
-.menu-text:hover{
+/* Text style changes when nav-link is hovered */
+.navbar-nav .nav-link:hover .menu-text {
   color: black;
 }
-
 
 .quarto-title-banner{
   display: none;
 }
 
 .reveal-viewport {
-  background-color: transparent;
+   background-color: rgb(36, 36, 36) !important;
+  background: rgb(36, 36, 36) !important; 
 }
 
 .reveal section img {
   height: 100vh;  /* Full viewport height */
   width: auto;     /* Maintain aspect ratio */
   object-fit: cover; /* Ensure it covers */
+   background-color: rgb(36, 36, 36) !important;
+  background: rgb(36, 36, 36) !important;
+   
 }
 
 .reveal section img {
   height: 100vh;   /* Full viewport height */
   width: auto;     /* Maintain aspect ratio */
   object-fit: cover; /* Ensure it covers */
+  background-color: rgb(36, 36, 36) !important;
+  background: rgb(36, 36, 36) !important;
 }
 
 
 .reveal .slide-menu-button {
   display: none;
+  background-color: rgb(36, 36, 36) !important;
+  background: rgb(36, 36, 36) !important;
 }
 
 // .reveal .controls button{
@@ -12953,27 +13145,43 @@ a {
 
 }
 
-/* Apply Button Styling */
 .theme-button {
   display: inline-block;
   padding: 10px 60px;
-  background-color: var(--button-bg);
-  color: var(--button-text);
-  text-decoration: none;
-  border: 1px solid var(--button-border);
+  background-color: $dark-gray;
+  border: 1px solid $light-gray;
   border-radius: 5px;
-  
+  text-decoration: none;
   text-align: center;
-  transition: background-color 0.3s, color 0.3s;
+ 
+
+  font-size: 0.8rem;
+  font-family: 'Sackers Gothic Std';
+  color: white;
+
+  transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
+/* Style the inner text */
+.theme-button .button-text,
+.theme-button .button-text a:hover {
+  color: black;
+  transition: color 0.3s ease;
+}
+
+/* Hover effects — applied to container and nested text */
 .theme-button:hover {
-  background-color: var(--button-text);
-  color: var(--button-bg);
+  background-color: var(--hover-bg);
+  border-color: #333;
+  color: $dark-gray;
 }
 
-.full-width-image img {
-  width: 100vw !important; /* 100% of the viewport width */
+.theme-button:hover .button-text {
+  color: $dark-gray;
+}
+
+.full-width-image  {
+  width: 100% !important; /* 100% of the viewport width */
   max-width: 100vw !important; /* Prevents scaling issues */
   margin-left: 0 !important;
   margin-right: 0 !important;
@@ -12984,6 +13192,37 @@ a {
   grid-template-columns: [screen-start] 0px [body-content-start] auto [body-content-end] 0px [screen-end];
 }
 
+
+.countdown-container {
+  position: relative;
+  text-align: center;
+
+  /* Make it full screen width */
+  width: 100vw;                        // Full viewport width
+  margin-left: calc(-50vw + 50%);     // Cancel parent container's centering
+  overflow: hidden;                   // Prevent scrollbars from overflow
+}
+
+
+.countdown-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.countdown-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 4em;
+  color: white;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
+  font-family: 'Playfair Display';  // 👈 Match the ## font
+  font-weight: lighter;    // Optional: match heading style
+}
+
+
 .countdown-grid {
   display: grid;
   grid-template-columns: repeat(4, auto);
@@ -12991,15 +13230,356 @@ a {
   row-gap: 0.2em;  /* less space between rows */
   justify-content: center;
   text-align: center;
-  font-size: 2em;
+  font-size: 1.5em;
   color: white;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
   line-height: 1;
+  font-family: 'Playfair Display';
 }
 
-. countdown .countdown-grid .label {
+.countdown-grid .label {
   font-size: 0.2em;
   margin: 0; /* remove vertical spacing under labels */
 }
+
+
+@media (max-width: 768px) {
+  .countdown-overlay {
+    font-size: 2em; // shrink on tablets
+  }
+
+  .highlight-heading {
+    font-size: 1.8em !important;
+  }
+
+
+  .countdown-grid {
+    font-size: 0.9em;
+  }
+
+  .countdown-grid .label {
+    font-size: 0.6em;
+  }
+  .splash-title{
+    font-size: 1.8em;
+  }
+  .faqs p
+  {
+  
+    font-size: calc(0.8rem + 0.48vw);
+    
+  }
+  .faqs h2
+  {
+  
+    font-size: calc(1rem + 0.48vw);
+    
+  }
+
+}
+
+@media (max-width: 480px) {
+  .countdown-overlay {
+    font-size: 1.8em; // shrink more on phones
+  }
+
+  .countdown-grid {
+    font-size: 0.8em;
+    gap: 0.5em;
+  }
+
+  .countdown-grid .label {
+    font-size: 0.5em;
+  }
+
+  .splash-title{
+    font-size: 1.5em;
+  }
+  .highlight-heading {
+    font-size: 1.5em !important;
+  }
+}
+
+
+
+
+.sneak-peek{
+  padding: 1em;
+}
+
+.pads{
+  padding: 1em 3em;
+}
+
+.highlight-heading {
+  font-size: 2.0em;     // Make it bigger!
+  font-weight: normal;
+  padding-top: 0;
+  font-family: 'Didot LT Italic';
+
+}
+
+.reveal {
+  background-color: rgb(36, 36, 36) !important;
+  background: rgb(36, 36, 36) !important;
+  color: white;
+}
+
+.faq-heading {
+  font-size: 2.0em;     // Make it bigger!
+  font-weight: normal;
+  padding-top: 0;
+  font-family: 'Didot LT';
+
+}
+
+.pt-4 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-size: 0.7em;
+  font-family: 'Didot LT Std';
+
+}
+.pt-5 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-size: 0.7em;
+  font-family: 'Didot LT Std';
+  text-transform: uppercase;
+
+}
+
+.bleed-section {
+  width: 100vw; /* Full viewport width */
+  margin-left: calc(-50vw + 50%); /* Cancel container padding to force edge bleed */
+  
+  overflow: hidden; /* Prevent scrollbars from negative margins */
+  font-size: 1.2em;
+  padding: 10px;
+  
+}
+
+.bleed-section .column{
+  padding: 1rem;
+}
+
+.bleed-section-img {
+  width: 100vw; /* Full viewport width */
+  margin-left: calc(-50vw + 50%); /* Cancel container padding to force edge bleed */
+  
+  overflow: hidden; /* Prevent scrollbars from negative margins */
+  font-size: 1.2em;
+
+  
+}
+
+.bleed-section-img img{
+  width: 100%;
+
+}
+
+.bg-party {
+  background-color: #242424; // Or any other color
+  color:white;
+}
+
+.photo-center p{
+  text-align: center;
+}
+
+
+.bg-banner-image {
+  background-image: url("images/Indexbanner2.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+
+
+/* Modal Overlay */
+.modal-overlay {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6); /* dark semi-transparent backdrop */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+/* Show modal when active */
+.modal-overlay.active {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #212121; /* or use .bg-party background */
+  color: white;
+  padding: 1.5rem;            /* Less padding = squarer shape */
+  border-radius: 4px;         /* Smaller radius = squarer corners */
+  max-width: 500px;           /* Slightly smaller for tighter look */
+  width: 90%;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);  /* Optional: subtle shadow */
+  
+}
+
+.text-modal,
+.text-modal p,
+.text-modal h3{
+  font-family: 'Sackers Gothic Std';
+  font-size: 1rem;
+}
+  
+
+/* Close Button */
+/* Close Button */
+.close-modal {
+  position: absolute;      /* Allows placement inside modal */
+  top: 1rem;               /* Distance from top */
+  right: 1rem;              /* Distance from left */
+  
+  padding: 0.25rem 0.5rem;
+  font-size: 1rem;
+  background-color: transparent;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  
+  width: auto;             /* Let it size to its content */
+  text-align: center;
+  line-height: 1;
+  font-family: 'Sackers Gothic Std';
+}
+
+
+.close-modal:hover {
+  background-color: $bg-colog;
+  color: $dark-gray;
+}
+
+.story,
+.story p{
+  font-size: 1em;
+  font-family: "Didot LT Italic" !important;
+}
+
+.center-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem;
+
+  /* Add one of the following height rules */
+  height: 100%;        /* Use if parent has height */
+  min-height: 400px;   /* Or a fixed height for reliable centering */
+  /* height: 100vh;    ← if you want it to fill the full screen height */
+}
+
+.no-bottom-border a {
+  border-bottom: none !important;
+}
+
+.no-bottom-border img {
+  border: none !important;
+  box-shadow: none !important;
+  
+}
+
+
+
+
+  .accordion {
+    border: none; /* Remove the border if you don't want it */
+    margin-bottom: 10px;
+    overflow: hidden;
+  }
+
+  .accordion > h3 {
+    background: none; /* No background */
+    margin: 0;
+    padding: 0; /* Remove padding */
+    cursor: pointer;
+  }
+
+  .accordion > div {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease-out;
+  }
+
+  .accordion.open > div {
+    max-height: 800px; /* Use a bigger number if needed */
+    transition: max-height 0.5s ease-in;
+  }
+
+  .accordion > h3:hover {
+    text-decoration: underline;
+  }
+
+
+  
+  .faq-toggle {
+    display: block;
+   
+  }
+
+
+
+  .faq-tab-link {
+    font-size: 1rem;
+    font-family: 'Sackers Gothic Std';
+    text-align: center;
+    color: $dark-gray;
+    border-bottom: 1px solid;
+  visibility: visible;
+  transition: visibility 0s linear 0s, opacity 300ms ease-in-out;
+  overflow: hidden;
+
+/* Hidden state (fade out) */
+.m-fadeOut {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s linear 300ms, opacity 300ms ease-in-out;
+}
+
+/* Visible state (fade in) */
+.m-fadeIn {
+  visibility: visible;
+  opacity: 1;
+  transition: visibility 0s linear 0s, opacity 300ms ease-in-out;
+}
+
+  .faq-group p{
+
+    font-size: 0.8rem;
+    font-family: 'Didot LT Std';
+
+  }
+
+  .faq-group h2{
+
+    font-size: 1.2rem;
+    font-family: 'Didot LT Std';
+
+  }
+
+  .faq-group h1{
+
+    font-size: 1.3rem;
+    font-family: 'Didot LT Std';
+
+  }
+
 
 // quarto-scss-analysis-annotation { "origin": null }
