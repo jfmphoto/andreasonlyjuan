@@ -44,7 +44,7 @@ Manténganse al tanto de las novedades de nuestra celebración ¡Estamos emocion
 AQUÍ HAY UNA VISTA DE
 </div>
 
-## <br><span class="highlight-heading">*NUESTRA BODA*</span> {.no-anchor .text-center .no-margin-top}
+## *NUESTRA BODA*{.no-anchor .text-center .no-margin-top .highlight-heading}
 
 
 
