@@ -106,7 +106,7 @@ The ceremony and reception will be held outdoors.
 ## *What airport should I fly into?*
 
 
- Santa Marta’s international airport is Simón Bolívar International Airport (SMR). There aren’t any direct flights from the US, but there are one stop flights from the Miami/Ft. Lauderdale and the New York area with reasonably short layovers in Bogota or Panama. Simón Bolívar International Airport (SMR) is 10 minutes from the Pozos Colorados district (where the wedding party will be staying in). Uber and local taxis are easily accessible from the airport.
+ Santa Marta’s international airport is Simón Bolívar International Airport (SMR). There aren’t any direct flights from the US, but there are one stop flights from the Miami/Ft. Lauderdale and the New York area with reasonably short layovers in Bogota or Panama. Simón Bolívar International Airport (SMR) is 10 minutes from the Pozos Colorados district (where the wedding party will be staying). Uber and local taxis are easily accessible from the airport.
  
  
 
@@ -141,52 +141,6 @@ El Rodadero (~25 minutes from the airport) is lively and full of restaurants and
 
 ::: 
 
-::: {.g-col-6}
-
-## *What are some fun things to do in Santa Marta?*
-
--- Excursions --
-
-<br>
-
-Tayrona National Natural Park - one of Colombia’s most breathtaking national parks with lucious, tropical hikes and stunning beaches.
-
-<br>
-
-Minca - a tiny town tucked into the Sierra Nevada mountains. Visit eco-lodges, tour coffee farms, and swim in the Pozo Azul waterfall.
-
-<br>
-
-Taganga - bohemian and budget friendly side of town that offers scuba diving and snorkeling excursions.
-
-<br>
-
--- Restaurants -- 
-
-<br>
-
-Lulo Café Bar de Jugos, Altamar Café, Donde Chucho, Batey, Ouzu, Santa Mesa, BK Restaurante
-
-<br>
-
--- Things to see --
-
-<br>
-
-El Pibe Valderrama statue outside the Estadio Eduardo Santos.
-
-<br>
-
-
-Quinta de San Pedro Alejandrino – Hacienda where Simón Bolivar spent his last days.
-
-<br>
-
-Museo del Oro Tairona, Casa de la Aduana – Museum of gold housed in the oldest surviving colonial-era building in Colombia.
- 
-
-
-::: 
 
 ::: {.g-col-6}
 
@@ -209,6 +163,54 @@ Yes, uber is easily accessible in Santa Marta.
 
 
 :::
+
+::: {.g-col-6}
+
+## *What are some fun things to do in Santa Marta?*
+
+-- Excursions --
+
+<br>
+
+Tayrona National Natural Park - one of Colombia’s most breathtaking national parks with luscious, tropical hikes and stunning beaches.
+
+<br>
+
+Minca - a tiny town tucked into the Sierra Nevada mountains. Visit eco-lodges, tour coffee farms, and swim in the Pozo Azul waterfall.
+
+<br>
+
+Taganga - bohemian and budget friendly side of town that offers scuba diving and snorkeling excursions.
+
+<br>
+
+-- Restaurants -- 
+
+<br>
+
+Lulo Café Bar de Jugos, Altamar Café, Donde Chucho, Batey, Ouzu, Santa Mesa, BK Restaurante
+
+<br>
+
+-- Things to See --
+
+<br>
+
+El Pibe Valderrama statue outside the Estadio Eduardo Santos.
+
+<br>
+
+
+Quinta de San Pedro Alejandrino – Hacienda where Simón Bolivar spent his last days.
+
+<br>
+
+Museo del Oro Tairona, Casa de la Aduana – Museum of gold housed in the oldest surviving colonial-era building in Colombia.
+ 
+
+
+::: 
+
 
 :::
 
