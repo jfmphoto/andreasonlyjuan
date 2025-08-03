@@ -20,7 +20,7 @@ website:
       - text: "Preguntas Frecuentes"
         href: preguntas.html
       - text: "Confirmar Asistencia"
-        href: rsvp.html 
+        href: RSVP.html 
 
 
 format:
