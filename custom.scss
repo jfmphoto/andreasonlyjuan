@@ -429,6 +429,43 @@ a {
   color: $dark-gray;
 }
 
+
+.room-link {
+  display: inline-block;
+  padding: 10px 60px;
+  background-color: #fefaf3; /* very light beige background */
+  border: 1px solid #1a1a1a; /* dark charcoal border */
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+
+  font-size: 0.8rem;
+  font-family: 'Sackers Gothic Std', sans-serif;
+  color: #1a1a1a; /* dark text */
+
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+/* Style the inner text */
+.room-link .button-text,
+.room-link .button-text a:hover {
+  color: #1a1a1a; /* dark text inside */
+  transition: color 0.3s ease;
+}
+
+/* Hover effects — reverse to dark background with light text */
+.room-link:hover {
+  background-color: #1a1a1a; /* dark on hover */
+  border-color: #e6dac3;     /* light beige border */
+  color: #fdf5e6;            /* light text */
+}
+
+.room-link:hover .button-text {
+  color: #fdf5e6;
+}
+
+
+
 .full-width-image  {
   width: 100% !important; /* 100% of the viewport width */
   max-width: 100vw !important; /* Prevents scaling issues */
@@ -606,8 +643,7 @@ a {
   margin-left: calc(-50vw + 50%); /* Cancel container padding to force edge bleed */
   
   overflow: hidden; /* Prevent scrollbars from negative margins */
-  font-size: 1.2em;
-  padding: 10px;
+  font-size: 1.2em; 
   
 }
 

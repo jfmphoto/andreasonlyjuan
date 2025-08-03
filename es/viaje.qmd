@@ -19,22 +19,13 @@ format: html
 
 <div class="story">
 
-Los novios se hospedarán en el Hilton Santa Marta en Pozos Colorados. Estamos finalizando los detalles para una tarifa grupal y pronto tendremos más detalles. Si prefieren reservar su viaje con anticipación, los invitamos a hacerlo.
+Los novios se hospedarán en el Hilton Santa Marta en Pozos Colorados. 
+<br><br>
+Reserva con nuestro bloque de habitaciones en el Hilton:
 
+[Andrea & Juan Hilton Bloque de Habitaciones](https://www.hilton.com/en/attend-my-event/smrcnhh-glwaj-8f2195b6-83c2-484b-91c7-ca649f0f7017/){.room-link}
 </div>
 
-:::
-
-::: {.g-col-6}
-
-:::
-:::
-
-<br>
-
-::: {.grid}
-
-::: {.g-col-6}
 
 #### <br><span class="highlight-heading">*[Hilton Santa Marta](https://www.hilton.com/en/hotels/smrcnhh-hilton-santa-marta/)*</span> {.no-anchor .no-margin-top}
 
@@ -47,25 +38,7 @@ Magdalena, Colombia <br>
 
 </div>
 
-:::
-
-
-::: {.g-col-6}
-![](images/hilton-exterior.jpg
-){width=100%}
-
-
-:::
-
-:::
-
-<br>
-<br>
-
-::: {.grid}
-
-
-::: {.g-col-6}
+<br><br>
 
 <div class="story">
 
@@ -75,9 +48,27 @@ Si los invitados prefieren otras opciones de hoteles o AirBnB, les recomendamos 
 
 :::
 
+::: {.g-col-6}
+
+![](images/hilton-exterior.jpg
+){width=100%}
+
+:::
 :::
 
 <br>
+ 
+::: {.grid}
+
+
+::: {.g-col-6}
+
+
+
+:::
+
+:::
+ 
 
 
 <div class= "text-center"> 
@@ -158,7 +149,7 @@ Tel. 035 4329400
 <!-- [Schedule](story.html){.theme-button}  -->
 [Viaje](viaje.html){.theme-button}
 [Preguntas Frecuentes](preguntas.html){.theme-button}
-[RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
+[Confirmar Asistencia](RSVP.html){.theme-button} 
 
 
 #### Contacto:

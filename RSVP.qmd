@@ -1,0 +1,64 @@
+---
+title: "RSVP"
+title-block-banner: false
+format: html
+---
+
+![](images/tayrona.jpg "La Tayrona"){#home .full-width-image}
+
+
+<div class="bleed-section bg-party pads" style="position: relative;"> 
+<div style="position: relative;">
+<iframe
+    id="JotFormIFrame-251996622723162"
+    title="JA Wedding Address Book"
+    onload="window.parent.scrollTo(0,0)"
+    allowtransparency="true"
+    allow="geolocation; microphone; camera; fullscreen; payment"
+    src="https://form.jotform.com/251996622723162"
+    frameborder="0"
+    style="min-width:100%;max-width:100%;height:539px;border:none;"
+    scrolling="no"
+>
+</iframe>
+<div style="
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100px;
+      background: #242424; /* Match the page background */
+      z-index: 10;
+      pointer-events: none;
+  "></div>
+<script src='https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js'></script>
+<script>window.jotformEmbedHandler("iframe[id='JotFormIFrame-251996622723162']", "https://form.jotform.com/")</script>
+
+</div> 
+</div> 
+
+
+
+
+:::{.text-center}
+<br>
+<br>
+
+[Our Story](story.html){.theme-button} 
+<!-- [Schedule](story.html){.theme-button}  -->
+[Travel](travel.html){.theme-button}
+[FAQ](faq.html){.theme-button}
+[RSVP](RSVP.html){.theme-button}
+
+
+#### Contact:
+
+If you have any questions, feel free to reach out to us!
+
+**Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
+**Event planner, Karol:** +57 123-456-7890
+
+:::
+
+
+    

@@ -109,11 +109,36 @@ El aeropuerto internacional de Santa Marta es el Aeropuerto Internacional Simón
 
 ::: {.g-col-6}
 
-## *¿Dónde se hospedarán los novios? ¿Habrá un bloque de habitaciones o tarifa de grupo?*
+## *¿Dónde se hospedarán los novios?*
 
-Los novios se hospedarán en el Hilton en Pozos Colorados, Santa Marta (ver la pagina de [Viajes](viaje.html) para otros hoteles). Pronto les daremos más detalles sobre la tarifa de grupo.
+Los novios se hospedarán en el Hilton en Pozos Colorados, Santa Marta (ver la pagina de [Viajes](viaje.html) para otros hoteles). 
 
 ::: 
+
+::: {.g-col-6}
+
+## *¿Hay Uber disponible en Santa Marta?*
+
+Sí, hay fácil acceso a Uber en Santa Marta.
+
+:::
+
+
+::: {.g-col-6}
+
+## *¿Habrá un bloque de habitaciones o tarifa de grupo?*
+
+Los novios se hospedarán en el Hilton en Pozos Colorados, Santa Marta, por favor reserva tu hospedaje con nosotros: [Hospedaje Hilton Reservados](https://www.hilton.com/en/attend-my-event/smrcnhh-glwaj-8f2195b6-83c2-484b-91c7-ca649f0f7017/)
+
+::: 
+
+::: {.g-col-6}
+
+## *¿Es Santa Marta segura en general?*
+
+¡Sí! Como en cualquier destino extranjero, recomendamos tomar las precauciones habituales, pero Santa Marta es una encantadora ciudad costeña conocida por su ambiente relajado, sus amables habitantes y sus hermosos paisajes. Podrás disfrutar de toda la belleza que ofrece la ciudad.
+
+:::
 
 
 ::: {.g-col-6}
@@ -133,7 +158,14 @@ El Rodadero (a unos 25 minutos del aeropuerto) es un lugar animado y lleno de re
 :::
 
 
+
+
+
+
+
+
 ::: {.g-col-6}
+
 ## *¿Qué actividades divertidas hay que hacer en Santa Marta?*
 
 -- Excursiones --
@@ -176,23 +208,8 @@ Museo del Oro Tairona, Casa de la Aduana: Ubicado en el edificio colonial más a
 
 :::
 
-::: {.g-col-6}
-
-## *¿Es Santa Marta segura en general?*
-
-¡Sí! Como en cualquier destino extranjero, recomendamos tomar las precauciones habituales, pero Santa Marta es una encantadora ciudad costeña conocida por su ambiente relajado, sus amables habitantes y sus hermosos paisajes. Podrás disfrutar de toda la belleza que ofrece la ciudad.
-
 :::
 
-::: {.g-col-6}
-
-## *¿Hay Uber disponible en Santa Marta?*
-
-Sí, hay fácil acceso a Uber en Santa Marta.
-
-:::
-
-:::
 
 
 </div>
@@ -247,7 +264,7 @@ La moneda local en Colombia es el Peso Colombiano (COP). Las tarjetas de crédit
 <!-- [Schedule](story.html){.theme-button}  -->
 [Viaje](viaje.html){.theme-button}
 [Preguntas Frecuentes](preguntas.html){.theme-button}
-[RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
+[RSVP](RSVP.html){.theme-button} 
 
 
 #### Contacto:

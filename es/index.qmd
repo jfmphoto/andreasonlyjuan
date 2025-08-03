@@ -134,7 +134,7 @@ día de playa
 <!-- [Schedule](story.html){.theme-button}  -->
 [Viaje](viaje.html){.theme-button}
 [Preguntas Frecuentes](preguntas.html){.theme-button}
-[RSVP](https://pp.events/aaNmELQb){.theme-button target="_blank"} 
+[Confirmar Asistencia](RSVP.html){.theme-button} 
 
 
 #### Contacto:

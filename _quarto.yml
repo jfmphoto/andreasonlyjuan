@@ -22,8 +22,7 @@ website:
       - text: "FAQ"
         href: faq.html
       - text: "RSVP"
-        href: https://pp.events/aaNmELQb
-        target: _blank
+        href: RSVP.html 
     # right:
     #   - text: "ES"
     #     href: es/index.html
