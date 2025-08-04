@@ -262,10 +262,6 @@ a {
 
   @media (max-width: 975px) { // Tablets & Large Phones
   
-    margin: 0 5%;
-    .pads{
-  padding: 10px 10px;
-        }
     .g-col-6 {
     grid-column: span 12 !important;
     }
@@ -277,9 +273,7 @@ a {
   @media (max-width: 480px) { // Phones
    
     margin: 0px; // Fixed margin for very small screens
-    .pads{
-  padding: 10px 10px;
-    }
+     
   .g-col-6 {
     grid-column: span 12 !important;
     }
@@ -596,8 +590,17 @@ a {
   padding: 1em;
 }
 
-.pads{
-  padding: 1em 3em;
+
+.pads {
+  padding: 1em 2em; // Default (desktop or large screen)
+
+  @media (max-width: 975px) { // Tablets & large phones
+    padding: 10px 10px;
+  }
+
+  @media (max-width: 480px) { // Small phones
+    padding: 10px 10px; 
+  }
 }
 
 .highlight-heading {
