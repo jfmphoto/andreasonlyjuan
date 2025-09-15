@@ -133,6 +133,7 @@ happily ever after-party
 [Travel](travel.html){.theme-button}
 [FAQ](faq.html){.theme-button}
 [RSVP](RSVP.html){.theme-button}
+[Registry](https://www.honeyfund.com/site/andreasonlyjuan){.theme-button target="_blank"}
 
 
 #### Contact:

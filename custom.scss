@@ -256,12 +256,17 @@ a {
 }
 
 .level1 {
-  margin: 0 10%; // Default: Centers on larger screens
+  margin: 0; // Default: Centers on larger screens
 
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
   
 
   @media (max-width: 975px) { // Tablets & Large Phones
   
+    margin: 0; 
+    
     .g-col-6 {
     grid-column: span 12 !important;
     }
@@ -590,16 +595,15 @@ a {
   padding: 1em;
 }
 
-
 .pads {
   padding: 1em 2em; // Default (desktop or large screen)
 
   @media (max-width: 975px) { // Tablets & large phones
-    padding: 10px 10px;
+    padding: 15px 15px;
   }
 
   @media (max-width: 480px) { // Small phones
-    padding: 10px 10px; 
+    padding: 10px 10px;
   }
 }
 
@@ -641,8 +645,10 @@ a {
 
 }
 
+
+
 .bleed-section {
-  width: 100vw; /* Full viewport width */
+  /* width: 100vw; /* Full viewport width */
   margin-left: calc(-50vw + 50%); /* Cancel container padding to force edge bleed */
   
   overflow: hidden; /* Prevent scrollbars from negative margins */
@@ -655,19 +661,21 @@ a {
 }
 
 .bleed-section-img {
-  width: 100vw; /* Full viewport width */
-  margin-left: calc(-50vw + 50%); /* Cancel container padding to force edge bleed */
-  
-  overflow: hidden; /* Prevent scrollbars from negative margins */
-  font-size: 1.2em;
-
-  
+  width: 100vw; // Full viewport width
+  max-width: 100%;
+  margin-left: calc(-50vw + 50%); // Cancel out centered container margins
+  overflow-x: hidden;
+  position: relative;
+  display: block;
 }
 
-.bleed-section-img img{
+.bleed-section-img img {
   width: 100%;
-
+  height: auto;
+  display: block;
+  object-fit: cover; // Optional: maintain cropping/scale
 }
+
 
 .bg-party {
   background-color: #242424; // Or any other color
@@ -881,3 +889,6 @@ a {
     font-family: 'Didot LT Std';
 
   }
+
+
+  

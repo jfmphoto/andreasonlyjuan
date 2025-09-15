@@ -21,6 +21,9 @@ website:
         href: preguntas.html
       - text: "Confirmar Asistencia"
         href: RSVP.html 
+      - text: "Registro"
+        href: https://www.honeyfund.com/site/andreasonlyjuan
+        target: _blank
 
 
 format:

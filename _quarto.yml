@@ -23,6 +23,9 @@ website:
         href: faq.html
       - text: "RSVP"
         href: RSVP.html 
+      - text: "Registry"
+        href: https://www.honeyfund.com/site/andreasonlyjuan
+        target: _blank
     # right:
     #   - text: "ES"
     #     href: es/index.html
