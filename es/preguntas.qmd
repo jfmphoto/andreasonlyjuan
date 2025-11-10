@@ -15,19 +15,25 @@ format: html
 
 ::: {.columns .text-center}
 
-::: {.column width="33%"}
+::: {.column width="22%"}
 
 ## <a href="#PREGUNTAS<br>FRECUENTES" class="faq-tab-link" data-target="wedding">Día de Boda</a>
 
 :::
 
-::: {.column width="33%"}
+::: {.column width="22%"}
 
 ## <a href="#PREGUNTAS<br>FRECUENTES" class="faq-tab-link" data-target="travel">Viaje & Hospedaje</a>
 
 :::
 
-::: {.column width="33%"}
+::: {.column width="22%"}
+
+## <a href="#PREGUNTAS<br>FRECUENTES" class="faq-tab-link" data-target="beach">Club de Playa</a>
+
+:::
+
+::: {.column width="22%"}
 
 ## <a href="#PREGUNTAS<br>FRECUENTES" class="faq-tab-link" data-target="misce">General</a>
 
@@ -44,7 +50,7 @@ format: html
 
 
 
-<div id="wedding" class="faq-group  m-fadeIn">
+<div id="wedding" class="faq-group  m-fadeI data-prevent-snap">
 
 
 ::: {.grid}
@@ -53,7 +59,31 @@ format: html
 
 ## *¿Cuál es el itinerario de la boda?*
 
-Habrá eventos de Jueves a Sábado. La boda será el Viernes, 5 de Diciembre. Hay eventos opcionales el Jueves por la noche (cócteles de bienvenida) y el Sábado por la tarde (día de playa). Estamos coordinando los últimos detalles para el fin de semana y pronto compartiremos más información.
+Habrá eventos de Jueves a Sábado. La boda será el Viernes, 5 de Diciembre. Hay eventos opcionales el Jueves por la noche (cócteles de bienvenida) y el Sábado por la tarde (día de playa). 
+
+Por favor visita la pagina de [eventos](eventos.html) para mas informacion.
+
+:::
+
+
+::: {.g-col-6}
+
+## *¿Habrá transporte disponible para los eventos de la boda?*
+
+Se proporcionará transporte para los eventos de nuestra boda, con ida y regreso desde el Hilton Santa Marta (Pozos Colorados).
+ 
+
+Los Ubers/taxis también son fácilmente accesibles para quienes no se alojen en el Hilton Santa Marta. Consulta la pagina de [eventos](eventos.html) para más detalles sobre los horarios de encuentro y salidas desde el hotel. 
+
+
+::: 
+
+::: {.g-col-6}
+
+## *¿Tienen una registro de regalos?*
+
+Su presencia en nuestra boda es el mejor regalo de todos.
+Si desean honrarnos con algo más, estaremos encantados de recibir sus contribuciones a nuestro [fondo para la luna de miel](https://www.honeyfund.com/site/andreasonlyjuan).
 
 :::
 
@@ -62,6 +92,15 @@ Habrá eventos de Jueves a Sábado. La boda será el Viernes, 5 de Diciembre. Ha
 ## *¿Qué día debo viajar para la celebración?*
 
 Se recomienda a los invitados llegar el miércoles, o jueves por la tarde, para participar en todos los eventos.
+
+:::
+
+::: {.g-col-6}
+
+
+## *¿La recepción de la ceremonia será en un lugar cerrado o al aire libre?*
+
+La ceremonia y la recepción se realizarán al aire libre.
 
 :::
 
@@ -82,19 +121,70 @@ Para los caballeros, queremos capturar la elegancia tropical con un toque de est
 
 ::: {.g-col-6}
 
+## *¿Tienen recomendaciones de maquilladores y estilistas?*
 
-## *¿La recepción de la ceremonia será en un lugar cerrado o al aire libre?*
+Sam Corredor : domicilio<br>
+Instagram: samcorredor_makeup<br>
+Cel. 3224693651<br>
+<br>
+Odaroja Makeup<br>
+Instagram: odarojamakeup<br>
+Cel: +57 301 7153708<br>
+<br>
+Yair Orozco : Salon y domicilio<br>
+Instagram: yairorozco<br>
+Cel. 3164830686<br>
+<br>
+Tomas Melgarejo : domicilio<br>
+Instragram: tomasmelgarejo<br>
+Cel. 3016111207<br>
+<br>
+Jherson Kock Makeup : domicilio<br>
+Instagram: jhersonkock<br>
+Cel. 3004945103<br>
+<br>
+German Mendoza: Salon y domicilio<br>
+Instragram: germanpazmakeup<br>
+Cel. 3017226768
 
-La ceremonia y la recepción se realizarán al aire libre.
+
+::: 
+
+
+::: {.g-col-6}
+
+## *Salones*
+
+CC Zazue Plaza (~5 minutos del hotel)<br>
+Carrera 7 No. 116ª – 94 Km 14 Via Cienaga<br>
+Bello Horizonte<br>
+Instagram: zazueplaza<br>
+www.zazueplaza.co<br>
+<br>
+ CC Arrecife (16 minutos del hotel)<br>
+Carrera 4 No. 11A – 119 El Rodadero<br>
+Instagram: arrecifecentrocomercial<br>
+www.arrecifecentrocomercial.com.co<br>
+<br>
+CC Ocean Mall (~25 minutos del hotel)<br>
+Calle 29 No. 15 – 100 Santa Marta<br>
+Instagram: oceanmallcc<br>
+www.oceanmallstamarta.com<br>
+
 
 :::
-
 
 
 ::: 
 </div> 
 
-<div id="travel" class="faq-group m-fadeOut">
+
+
+
+
+
+
+<div id="travel" class="faq-group m-fadeOut data-prevent-snap">
 
 
 ::: {.grid}
@@ -115,22 +205,7 @@ Los novios se hospedarán en el Hilton en Pozos Colorados, Santa Marta (ver la p
 
 ::: 
 
-::: {.g-col-6}
-
-## *¿Hay Uber disponible en Santa Marta?*
-
-Sí, hay fácil acceso a Uber en Santa Marta.
-
-:::
-
-
-::: {.g-col-6}
-
-## *¿Habrá un bloque de habitaciones o tarifa de grupo?*
-
-Los novios se hospedarán en el Hilton en Pozos Colorados, Santa Marta, por favor reserva tu hospedaje con nosotros: [Hospedaje Hilton Reservados](https://www.hilton.com/en/attend-my-event/smrcnhh-glwaj-8f2195b6-83c2-484b-91c7-ca649f0f7017/)
-
-::: 
+ 
 
 ::: {.g-col-6}
 
@@ -158,6 +233,14 @@ El Rodadero (a unos 25 minutos del aeropuerto) es un lugar animado y lleno de re
 :::
 
 
+
+::: {.g-col-6}
+
+## *¿Hay Uber disponible en Santa Marta?*
+
+Sí, hay fácil acceso a Uber en Santa Marta.
+
+:::
 
 
 
@@ -215,7 +298,112 @@ Museo del Oro Tairona, Casa de la Aduana: Ubicado en el edificio colonial más a
 </div>
 
 
-<div id="misce" class="faq-group m-fadeOut">
+
+
+<div id="beach" class="faq-group  m-fadeOut data-prevent-snap">
+
+
+::: {.grid}
+
+::: {.g-col-6}
+
+## *¿Dónde está Inca Inca?*
+
+Es un club de playa ubicado en Playa Inca Inca.
+Playa Inca Inca es una playa pequeña y tranquila, situada justo a las afueras de El Rodadero (a unos 5 minutos en lancha).
+
+
+:::
+
+
+::: {.g-col-6}
+
+## *¿Cuál es el código de vestimenta para el club de playa?*
+
+El código de vestimenta es informal de playa.
+¡Les recomendamos traer sus trajes de baño!
+Esta es una de las mejores playas semi-privadas de Santa Marta, ideal para nadar y relajarse en la arena, si así lo desean.
+
+
+:::
+
+::: {.g-col-6}
+
+## *¿Cómo llegamos allí?*
+
+Hay tours tipo “day pass” que salen desde El Rodadero (punto de encuentro: Cra. 1 #7-69, El Rodadero).
+Nosotros ofreceremos transporte ida y vuelta gratuito desde El Rodadero hasta Inca Inca, en un viaje programado con Taximarino Travels.
+
+:::
+
+
+::: {.g-col-6}
+
+## *¿Cuál es el ambiente del evento?*
+
+Ya sea que quieras darte un baño, tomar el sol o simplemente relajarte junto al mar, el club de playa Inca Inca ofrece el lugar ideal para disfrutar de la costa de Santa Marta.  
+
+
+:::
+
+
+
+
+::: {.g-col-6}
+
+## *¿Y si no alcanzo a llegar a tiempo para el Taximarino?*
+
+No hay problema — hay muchos proveedores que ofrecen transporte en lancha.
+Solo dirígete al Muelle Turístico de El Rodadero y pregunta por las embarcaciones que van hacia Playa Inca Inca.
+El costo suele ser de 10,000 a 20,000 COP (~$2–5 USD) ida y vuelta, y el trayecto dura entre 5 y 10 minutos.
+Por favor lleva efectivo, ya que los pagos con tarjeta no son comunes entre los vendedores de playa.
+
+:::
+
+::: {.g-col-6}
+
+## *¿Habrá comida y bebidas?*
+
+¡Sí! El club de playa cuenta con un bar completo y un menú tipo buffet para la comida.
+Se aceptan pagos con tarjeta.
+
+:::
+
+::: {.g-col-6}
+
+## *¿Cuáles son los horarios del evento?*
+
+El evento de despedida será de 1:00 p. m. a 6:00 p. m., y el Taximarino nos recogerá a las XYZ.
+Si algún invitado desea regresar antes, puede organizar su transporte desde allí.
+
+:::
+
+::: {.g-col-6}
+
+## *¿A qué hora debo estar allí?*
+
+El shuttle saldrá del Hilton Santa Marta (Pozos Colorados) hacia El Rodadero al mediodía del sábado 6 de diciembre.
+Abordaremos el Taximarino aproximadamente a las 12:45 p. m.
+
+Para quienes nos encuentren directamente en El Rodadero, pueden ubicarnos aquí:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6699.7732244962635!2d-74.21963936032128!3d11.09318715232791!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef457fd506e70fd%3A0xa7265f258237e643!2sCasa%20Kapikua!5e0!3m2!1sen!2sus!4v1762728210876!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+:::
+
+
+
+:::
+
+
+
+</div>
+
+
+
+
+<div id="misce" class="faq-group m-fadeOut data-prevent-snap">
 
 
 :::  {.grid}
@@ -263,8 +451,8 @@ La moneda local en Colombia es el Peso Colombiano (COP). Las tarjetas de crédit
 [Nuestra Historia](historia.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
 [Viaje](viaje.html){.theme-button}
+[Eventos](eventos.html){.theme-button} 
 [Preguntas Frecuentes](preguntas.html){.theme-button}
-[RSVP](RSVP.html){.theme-button} 
 [Registro](https://www.honeyfund.com/site/andreasonlyjuan){.theme-button target="_blank"}
 
 

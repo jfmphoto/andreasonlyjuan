@@ -1,0 +1,105 @@
+---
+title: "Wedding Events"
+title-block-banner: false
+format: html
+---
+
+
+![](images/tayrona.jpg "La Tayrona"){#home .full-width-image}
+
+# OUR WEDDING <BR> WEEKEND {.splash-title}
+ 
+#
+ 
+<div class="bleed-section bg-party pads text-center">
+
+
+:::: {.columns .text-center .dates}
+ 
+<div class="dates">
+
+## Welcome Evening Reception
+
+### Thursday, December 4th
+
+4 PM at [Cinto Cantina Caribe](https://beacons.ai/cintocantina)
+
+Parque De Los Novios
+
+Calle 18 #3-18, Comuna 2, 
+
+Santa Marta, Magdalena, Colombia
+ 
+Transportation departs from Hilton Santa Marta at 6:30 PM
+
+---
+
+## Wedding Day
+
+### Friday, December 5th
+
+
+4 PM at [Casa Kapikua](https://maps.app.goo.gl/qE6WKZTK8aybLz9v8)
+
+km 20 vía Santa Marta,  
+
+Ciénaga Santa Marta, Colombia
+
+Transportation departs from Hilton Santa Marta at 3:30 PM
+
+---
+
+## Farewell Beach Event
+
+### Saturday, December 6th
+
+1 PM at [Inca Inca Beach Club](https://www.instagram.com/p/C_gxuFJMLn9/?img_index=1)
+ 
+Departure from [El Rodadero with Taximarino Travels](https://maps.app.goo.gl/3wnfCmhVXoxtfdRY7)
+
+Transportation departs from Hilton Santa Marta at 12 PM
+
+See [FAQ's](faq.html) page for more information
+
+
+---
+
+## Transportation & Accommodations
+
+The wedding party has reserved hotel accommodations at the Hilton Santa Marta in Pozos Colorados. 
+
+Transportation for all events will be departing from the Hilton Santa Marta Hotal in Pozos Colorados.
+
+</div>
+ 
+
+::::
+ 
+<br> 
+
+</div>
+
+
+:::{.text-center}
+<br>
+<br>
+
+[Our Story](story.html){.theme-button} 
+<!-- [Schedule](story.html){.theme-button}  -->
+[Travel](travel.html){.theme-button}
+[Events](events.html){.theme-button}
+[FAQ](faq.html){.theme-button}
+[Registry](https://www.honeyfund.com/site/andreasonlyjuan){.theme-button target="_blank"}
+
+
+#### Contact:
+
+If you have any questions, feel free to reach out to us!
+
+**Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
+**Event planner, Karol:** +57 123-456-7890
+
+:::
+
+
+    

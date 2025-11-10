@@ -86,8 +86,8 @@ Ahora, enamorados y listos para su siguiente capítulo.
 [Nuestra Historia](historia.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
 [Viaje](viaje.html){.theme-button}
+[Eventos](eventos.html){.theme-button} 
 [Preguntas Frecuentes](preguntas.html){.theme-button}
-[Confirmar Asistencia](RSVP.html){.theme-button} 
 [Registro](https://www.honeyfund.com/site/andreasonlyjuan){.theme-button target="_blank"}
 
 

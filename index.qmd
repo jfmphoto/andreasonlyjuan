@@ -3,7 +3,7 @@ title: "Andrea & Juan's Wedding"
 lang: en
 title-block-banner: false
 format: html
----
+---  
 
 ![](images/banner1.jpg "La Tayrona"){#home .full-width-image}
 
@@ -39,8 +39,8 @@ Stay tuned for updates of our weekend celebration. We can’t wait to celebrate 
 
 <div class="bleed-section bg-party text-center">
 
-<div class="pt-4"><br>
-HERE'S A SNEAK PEEK OF
+<div class="pt-4"> <br>
+WELCOME TO 
 </div>
 
 ## *OUR WEDDING WEEKEND*{.no-anchor .text-center .no-margin-top .highlight-heading}
@@ -54,7 +54,11 @@ HERE'S A SNEAK PEEK OF
 
 ### December 4th 
 
-welcome evening reception 
+welcome evening reception
+
+7 pm at cinto cantina caribe
+
+parque de los novios, santa marta
 </div>
 
 
@@ -66,6 +70,12 @@ welcome evening reception
 ### December 5th  
 
 our wedding day
+
+4 pm at kasa kapikua
+
+km 20 vía santa marta 
+
+
 </div>
 
 
@@ -77,20 +87,33 @@ our wedding day
 ### December 6th  
 
 happily ever after-party
+
+1 pm at inca inca beach club
+
+departure from el rodadero
+
+
 </div>
 
 
 :::
 
-<br>
-<br>
-
 ::::
 
+ 
+# 
+
+
+<div class="pt-4"><br>
+
+SEE OUR [EVENTS](events.html) PAGE FOR MORE
 
 </div>
 
-<div class="sneak-peek">
+
+<br>
+
+</div>
 
 
 :::: {.columns}
@@ -99,6 +122,8 @@ happily ever after-party
 
 ::: {.column width="100%"}
 
+<br>
+<br>
 
 <div class="photo-center">
 
@@ -131,8 +156,8 @@ happily ever after-party
 [Our Story](story.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
 [Travel](travel.html){.theme-button}
+[Events](events.html){.theme-button}
 [FAQ](faq.html){.theme-button}
-[RSVP](RSVP.html){.theme-button}
 [Registry](https://www.honeyfund.com/site/andreasonlyjuan){.theme-button target="_blank"}
 
 

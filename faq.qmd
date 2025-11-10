@@ -15,19 +15,25 @@ format: html
 
 ::: {.columns .text-center}
 
-::: {.column width="33%"}
+::: {.column width="22%"}
 
 ## <a href="#FAQs" class="faq-tab-link" data-target="wedding">Wedding Day</a>
 
 :::
 
-::: {.column width="33%"}
+::: {.column width="22%"}
 
 ## <a href="#FAQs" class="faq-tab-link" data-target="travel">Travel & Stay</a>
 
 :::
 
-::: {.column width="33%"}
+::: {.column width="22%"}
+
+## <a href="#FAQs" class="faq-tab-link" data-target="beach">Beach Club</a>
+
+:::
+
+::: {.column width="22%"}
 
 ## <a href="#FAQs" class="faq-tab-link" data-target="misce">Misc</a>
 
@@ -51,9 +57,35 @@ format: html
 ::: {.g-col-6}
 
 ## *What is the itinerary for the weekend?*
-There will be wedding events Thursday-Saturday. Our big day will be on Friday, December 5th. There are optional events Thursday evening (welcome cocktails) and Saturday afternoon (beach club).  We are coordinating the final details for the weekend and will have more to share soon.  
+There will be wedding events Thursday-Saturday. Our big day will be on Friday, December 5th. There are optional events Thursday evening (welcome cocktails) and Saturday afternoon (beach club).
+
+Please see [events](events.html) page for final details. 
+
 
 :::
+
+::: {.g-col-6}
+
+## *Will there be transportation provided for the wedding events?*
+
+Transportation will be provided for our wedding events and will be departing / returning to the Hilton Santa Marta (Pozos Colorado). 
+ 
+
+Ubers/taxis are also easily accessible for anyone who is not staying in the Hilton Santa Marta. See [events](events.html) tab for more details on the meet times/departures from the hotel.  
+
+
+::: 
+
+
+::: {.g-col-6}
+
+## *Do you have a wedding registry?*
+
+Your presence at our wedding is the greatest gift of all. If you wish to honor us with more, we’d be happy to receive contributions to our [honeymoon fund](https://www.honeyfund.com/site/andreasonlyjuan). 
+
+
+
+::: 
 
 ::: {.g-col-6}
 ## *What days should I fly in for the celebration?*
@@ -65,17 +97,23 @@ Guests are encouraged to arrive Wednesday or Thursday afternoon to be part of al
 :::
 
 ::: {.g-col-6}
+## *Will the ceremony reception be indoors or outdoors?*
+
+
+The ceremony and reception will be held outdoors.
+
+:::
+
+::: {.g-col-6}
 ## *What is the dress code for the wedding?*
 
 
 The dress code is beach formal. Consider light, airy fabrics suitable for warm, tropical climate and a celebration by the beach.  
-
-<br>
+ 
 <br>
 
 For the ladies, we want each of you to feel comfortable and elegant, so opt for flowing dresses with natural details. Consider platform heels (not stilettos). 
-
-<br>
+ 
 <br>
 
 For the gentlemen, we want to capture tropical elegance with a touch of classic style. You can opt for a light suit that evokes freshness. Add a touch of sophistication with accessories.
@@ -84,12 +122,62 @@ For the gentlemen, we want to capture tropical elegance with a touch of classic 
 :::
 
 ::: {.g-col-6}
-## *Will the ceremony reception be indoors or outdoors?*
+## *Do you have recommendations for makeup and hair stylists?*
+
+Sam Corredor : on site<br>
+Instagram: samcorredor_makeup<br>
+Cel. 3224693651<br>
+<br>
+Odaroja Makeup<br>
+Instagram: odarojamakeup<br>
+Cel: +57 301 7153708<br>
+<br>
+Yair Orozco : Beauty salon and on site<br>
+Instagram: yairorozco<br>
+Cel. 3164830686<br>
+<br>
+Tomas Melgarejo : on site<br>
+Instragram: tomasmelgarejo<br>
+Cel. 3016111207<br>
+<br>
+Jherson Kock Makeup : on site<br>
+Instagram: jhersonkock<br>
+Cel. 3004945103<br>
+<br>
+German Mendoza: Beauty salon and on site<br>
+Instragram: germanpazmakeup<br>
+Cel. 3017226768
+ 
+:::
 
 
-The ceremony and reception will be held outdoors.
+
+::: {.g-col-6}
+
+## *Off site salons*
+
+CC Zazue Plaza (~5 minutes from the hotel)<br>
+Carrera 7 No. 116ª – 94 Km 14 Via Cienaga<br>
+Bello Horizonte<br>
+Instagram: zazueplaza<br>
+www.zazueplaza.co<br>
+<br>
+ CC Arrecife (16 minutes from the hotel)<br>
+Carrera 4 No. 11A – 119 El Rodadero<br>
+Instagram: arrecifecentrocomercial<br>
+www.arrecifecentrocomercial.com.co<br>
+<br>
+CC Ocean Mall (~25 minutes from the hotel)<br>
+Calle 29 No. 15 – 100 Santa Marta<br>
+Instagram: oceanmallcc<br>
+www.oceanmallstamarta.com<br>
+
 
 :::
+
+
+
+
 
 ::: 
 </div> 
@@ -121,16 +209,7 @@ The wedding party will be staying at the Hilton in Pozos Colorados, Santa Marta 
 
 ::: 
 
-::: {.g-col-6}
-
-## *Will there be a room block or group rate?*
-
-The wedding party will be staying at the Hilton in Pozos Colorados, Santa Marta, please reserve a room here: [Hilton Room Block](https://www.hilton.com/en/attend-my-event/smrcnhh-glwaj-8f2195b6-83c2-484b-91c7-ca649f0f7017/).
-
  
-
-
-::: 
 
 ::: {.g-col-6}
 
@@ -229,6 +308,94 @@ Museo del Oro Tairona, Casa de la Aduana – Museum of gold housed in the oldest
 
 
 
+
+
+<div id="beach" class="faq-group  m-fadeOut data-prevent-snap">
+
+
+::: {.grid}
+
+::: {.g-col-6}
+
+## *Where is Inca Inca?*
+A beach club located in Playa Inca Inca. Playa Inca Inca is a small, secluded beach just outside El Rodadero (about a 5-minute boat ride).  
+
+:::
+
+::: {.g-col-6}
+
+## *What is the attire for the beach club?*
+The attire is beach informal. We highly recommend to bring your swimsuits! This is one of Santa Marta’s best semi-private beaches ideal for swimming and laying out on the sand, if that’s what you wish. 
+
+:::
+
+
+
+::: {.g-col-6}
+
+## *How do we get there?*
+
+There are day-pass tours from Rodadero (meeting point Cra. 1 #7-69, El Rodadero). We are offering complimentary round-trip transportation from El Rodadero to Inca Inca via a pre-scheduled trip with Taximarino Travels. 
+
+
+:::
+
+::: {.g-col-6}
+
+## *What is the vibe for the event?*
+Whether you’re up for a swim, some sun, or just relaxing by the beach, Inca Inca beach club offers the ideal spot to enjoy Santa Marta’s coast. 
+
+
+:::
+
+
+::: {.g-col-6}
+
+## *What if I don't make it in time for the Taximarino?*
+
+No worries – there are plenty of vendors that provide transportation by boat. Head to the main pier (Muelle Turístico de El Rodadero) and ask for boats going to Playa Inca Inca. The cost is usually 10,000-20,000 COP (~ $2-5 USD) round trip. The trip is 5-10 minutes by water and run frequently. Please bring cash as card payments with beachside vendors are rare. 
+
+
+:::
+
+::: {.g-col-6}
+
+## *Will there be food and bevarages?*
+
+Yes! The beach club has a full bar and a buffet menu for food. Card payments are acceptable.
+
+
+:::
+
+::: {.g-col-6}
+
+## *What are the hours of the event?*
+
+The farewell event is from 1-6PM with the Taximarino picking us up at XYZ. If guests would like to leave before, you can arrange transportation from there.
+
+
+:::
+
+
+::: {.g-col-6}
+
+## *What time do I have to be there?*
+
+The shuttle will be departing from the Hilton Santa Marta (Pozos Colorados) to El Rodadero beach at noon on Saturday, December 6th. We will be boarding the Taximarino around 12:45 pm. 
+
+For those meeting us in El Rodadero, please find us here: 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6699.7732244962635!2d-74.21963936032128!3d11.09318715232791!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef457fd506e70fd%3A0xa7265f258237e643!2sCasa%20Kapikua!5e0!3m2!1sen!2sus!4v1762728210876!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+:::
+ 
+:::
+
+</div>
+
+
 <div id="misce" class="faq-group m-fadeOut data-prevent-snap">
 
 
@@ -289,10 +456,9 @@ The local currency in Colombia is the Colombian Peso (COP). Credit/debit cards a
 [Our Story](story.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
 [Travel](travel.html){.theme-button}
+[Events](events.html){.theme-button}
 [FAQ](faq.html){.theme-button}
-[RSVP](RSVP.html){.theme-button}
 [Registry](https://www.honeyfund.com/site/andreasonlyjuan){.theme-button target="_blank"}
-
 
 
 #### Contact:

@@ -83,8 +83,8 @@ Now, just in love and ready for our next chapter.
 [Our Story](story.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
 [Travel](travel.html){.theme-button}
+[Events](events.html){.theme-button}
 [FAQ](faq.html){.theme-button}
-[RSVP](RSVP.html){.theme-button}
 [Registry](https://www.honeyfund.com/site/andreasonlyjuan){.theme-button target="_blank"}
 
 

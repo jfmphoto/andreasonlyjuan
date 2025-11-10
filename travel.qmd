@@ -21,11 +21,8 @@ format: html
 <div class="story">
 
 The wedding party will be staying at the Hilton Santa Marta in Pozos Colorados. 
-<br><br>
+<br>
 
-Join our room block at the Hilton: 
-
-[Andrea & Juan Hilton Room Block](https://www.hilton.com/en/attend-my-event/smrcnhh-glwaj-8f2195b6-83c2-484b-91c7-ca649f0f7017/){.room-link}
 </div>
 
 #### <br><span class="highlight-heading">*[Hilton Santa Marta](https://www.hilton.com/en/hotels/smrcnhh-hilton-santa-marta/)*</span> {.no-anchor .no-margin-top}
@@ -142,11 +139,9 @@ Tel. 035 4329400
 [Our Story](story.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
 [Travel](travel.html){.theme-button}
+[Events](events.html){.theme-button}
 [FAQ](faq.html){.theme-button}
-[RSVP](RSVP.html){.theme-button}
 [Registry](https://www.honeyfund.com/site/andreasonlyjuan){.theme-button target="_blank"}
-
-
 
 #### Contact:
 

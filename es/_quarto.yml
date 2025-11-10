@@ -15,12 +15,13 @@ website:
         href: index.html
       - text: "Nuestra Historia"
         href: historia.html
+      - text: "Eventos"
+        href: eventos.html
       - text: "Viaje"
         href: viaje.html
       - text: "Preguntas Frecuentes"
         href: preguntas.html
-      - text: "Confirmar Asistencia"
-        href: RSVP.html 
+      
       - text: "Registro"
         href: https://www.honeyfund.com/site/andreasonlyjuan
         target: _blank

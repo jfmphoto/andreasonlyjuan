@@ -1,0 +1,103 @@
+---
+title: "Eventos de Boda"
+title-block-banner: false
+format: html
+---
+
+
+![](images/tayrona.jpg "La Tayrona"){#home .full-width-image}
+
+# EVENTOS <BR> DE BODA {.splash-title}
+ 
+#
+ 
+<div class="bleed-section bg-party pads text-center">
+
+
+:::: {.columns .text-center .dates}
+ 
+<div class="dates">
+
+## Recepcion de Bienvenida
+
+### Jueves, Diciembre 4
+
+7 de la noche en [Cinto Cantina Caribe](https://beacons.ai/cintocantina)
+
+Parque De Los Novios
+
+Calle 18 #3-18, Comuna 2, 
+
+Santa Marta, Magdalena, Colombia
+
+Transportacion saldrá del Hilton Santa Marta a las 7:30 de la noche 
+
+---
+
+## Dia De Boda
+
+### Viernes, Diciembre 5
+
+4 de la tarde en [Casa Kapikua](https://maps.app.goo.gl/qE6WKZTK8aybLz9v8)
+
+km 20 vía Santa Marta,  
+
+Ciénaga Santa Marta, Colombia
+
+Transportacion saldrá del Hilton Santa Marta a las 3:30 de la tarde 
+
+---
+
+## Fiesta de Despedida en la Playa
+
+### Sabado, Diciembre 6
+
+1 de la tarde en [Inca Inca Beach Club](https://www.instagram.com/p/C_gxuFJMLn9/?img_index=1)
+ 
+Departura de [El Rodadero con Taximarino Travels](https://maps.app.goo.gl/3wnfCmhVXoxtfdRY7)
+
+Transportacion saldrá del Hilton Santa Marta a las 12 de la tarde
+
+Visita la pagina [Preguntas Frequentes](preguntas.html) para mas información 
+
+
+
+---
+
+## Transportacion & Alojamiento
+
+Los novios han reservado estadia en el hotel Hilton Santa Marta en Pozos Colorados.
+
+Transportacion para todos los eventos partirá puntualmente desde el Hilton Santa Marta hotel en Pozos Colorados. 
+
+</div>
+ 
+
+::::
+ 
+<br> 
+
+</div>
+
+
+:::{.text-center}
+<br>
+<br>
+
+[Nuestra Historia](historia.html){.theme-button} 
+<!-- [Schedule](story.html){.theme-button}  -->
+[Viaje](viaje.html){.theme-button}
+[Eventos](eventos.html){.theme-button} 
+[Preguntas Frecuentes](preguntas.html){.theme-button}
+[Registro](https://www.honeyfund.com/site/andreasonlyjuan){.theme-button target="_blank"}
+
+
+#### Contacto:
+
+Si tienes alguna pregunta, ¡no dudes en contactarnos!
+
+**Email**: [andreasonlyjuan@gmail.com](mailto:andreasonlyjuan@gmail.com) <BR>
+**Planificadora de bodas, Karol:** +57 123-456-7890
+
+:::
+    

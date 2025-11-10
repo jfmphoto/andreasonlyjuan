@@ -1,5 +1,6 @@
 ---
 title: "La boda de Andrea & Juan"
+
 title-block-banner: false
 lang: es
 ---
@@ -41,7 +42,7 @@ Manténganse al tanto de las novedades de nuestra celebración ¡Estamos emocion
 <div class="bleed-section bg-party text-center">
 
 <div class="pt-4"><br>
-AQUÍ HAY UNA VISTA DE
+BIENVENIDOS
 </div>
 
 ## *NUESTRA BODA*{.no-anchor .text-center .no-margin-top .highlight-heading}
@@ -56,6 +57,10 @@ AQUÍ HAY UNA VISTA DE
 ### December 4th 
 
 recepción de bienvenida
+
+7 pm en cinto cantina caribe 
+
+parque de los novios, santa marta
 </div>
 
 
@@ -68,6 +73,10 @@ recepción de bienvenida
 
 día de nuestra boda
 
+4 pm en kasa kapikua
+
+km 20 vía santa marta 
+
 </div>
 
 
@@ -78,18 +87,28 @@ día de nuestra boda
 
 ### December 6th  
 
-día de playa
+fiesta de despedida
+
+1 pm en inca inca beach club
+
+salida de el rodadero
+
 </div>
 
 
 :::
 
-<br>
-<br>
-
 ::::
 
+# 
 
+<div class="pt-4"><br>
+
+VISITA LA PAGINA DE [EVENTOS](eventos.html) PARA MAS INFORMACION
+
+</div>
+
+<br> 
 </div>
 
 <div class="sneak-peek">
@@ -133,8 +152,8 @@ día de playa
 [Nuestra Historia](historia.html){.theme-button} 
 <!-- [Schedule](story.html){.theme-button}  -->
 [Viaje](viaje.html){.theme-button}
+[Eventos](eventos.html){.theme-button} 
 [Preguntas Frecuentes](preguntas.html){.theme-button}
-[Confirmar Asistencia](RSVP.html){.theme-button} 
 [Registro](https://www.honeyfund.com/site/andreasonlyjuan){.theme-button target="_blank"}
 
 

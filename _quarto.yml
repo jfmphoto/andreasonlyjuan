@@ -19,10 +19,10 @@ website:
         href: story.html
       - text: "Travel"
         href: travel.html
+      - text: "Events"
+        href: events.html 
       - text: "FAQ"
         href: faq.html
-      - text: "RSVP"
-        href: RSVP.html 
       - text: "Registry"
         href: https://www.honeyfund.com/site/andreasonlyjuan
         target: _blank
