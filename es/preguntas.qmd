@@ -315,12 +315,20 @@ Playa Inca Inca es una playa pequeña y tranquila, situada justo a las afueras d
 
 :::
 
+::: {.g-col-6}
+
+## *¿Cuáles son los horarios del evento?*
+
+El evento Post-Boda en la playa comenzará a la 1 p. m., con un catamarán privado que llevará a los invitados de regreso a las 6 p. m. desde la playa Inca Inca y los dejará en El Rodadero. Si los invitados desean irse antes, podrán coordinar transporte desde allí. Se proporcionará transporte de ida y vuelta al hotel Hilton Santa Marta en horarios específicos.
+
+:::
+
 
 ::: {.g-col-6}
 
 ## *¿Cuál es el código de vestimenta para el club de playa?*
 
-El código de vestimenta es informal de playa.
+El código de vestimenta es playero.
 ¡Les recomendamos traer sus trajes de baño!
 Esta es una de las mejores playas semi-privadas de Santa Marta, ideal para nadar y relajarse en la arena, si así lo desean.
 
@@ -331,8 +339,8 @@ Esta es una de las mejores playas semi-privadas de Santa Marta, ideal para nadar
 
 ## *¿Cómo llegamos allí?*
 
-Hay tours tipo “day pass” que salen desde El Rodadero (punto de encuentro: Cra. 1 #7-69, El Rodadero).
-Nosotros ofreceremos transporte ida y vuelta gratuito desde El Rodadero hasta Inca Inca, en un viaje programado con Taximarino Travels.
+Hay tours tipo “day pass” que salen desde El Rodadero (punto de encuentro: Cra. 1 #7-69, El Rodadero). Estamos ofreciendo transporte de ida y vuelta desde el Hilton Santa Marta hasta El Rodadero (a las 12:00 p.m. y a las 6 p.m.), y transporte de ida y vuelta a Inca Inca.
+
 
 :::
 
@@ -348,33 +356,11 @@ Ya sea que quieras darte un baño, tomar el sol o simplemente relajarte junto al
 
 
 
-
-::: {.g-col-6}
-
-## *¿Y si no alcanzo a llegar a tiempo para el Taximarino?*
-
-No hay problema — hay muchos proveedores que ofrecen transporte en lancha.
-Solo dirígete al Muelle Turístico de El Rodadero y pregunta por las embarcaciones que van hacia Playa Inca Inca.
-El costo suele ser de 10,000 a 20,000 COP (~$2–5 USD) ida y vuelta, y el trayecto dura entre 5 y 10 minutos.
-Por favor lleva efectivo, ya que los pagos con tarjeta no son comunes entre los vendedores de playa.
-
-:::
-
 ::: {.g-col-6}
 
 ## *¿Habrá comida y bebidas?*
 
-¡Sí! El club de playa cuenta con un bar completo y un menú tipo buffet para la comida.
-Se aceptan pagos con tarjeta.
-
-:::
-
-::: {.g-col-6}
-
-## *¿Cuáles son los horarios del evento?*
-
-El evento de despedida será de 1:00 p. m. a 6:00 p. m., y el Taximarino nos recogerá a las XYZ.
-Si algún invitado desea regresar antes, puede organizar su transporte desde allí.
+¡Sí! El club de playa cuenta con un bar completo y un menú tipo bufé. Se aceptan pagos con tarjeta.
 
 :::
 
@@ -382,16 +368,28 @@ Si algún invitado desea regresar antes, puede organizar su transporte desde all
 
 ## *¿A qué hora debo estar allí?*
 
-El shuttle saldrá del Hilton Santa Marta (Pozos Colorados) hacia El Rodadero al mediodía del sábado 6 de diciembre.
-Abordaremos el Taximarino aproximadamente a las 12:45 p. m.
-
-Para quienes nos encuentren directamente en El Rodadero, pueden ubicarnos aquí:
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6699.7732244962635!2d-74.21963936032128!3d11.09318715232791!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef457fd506e70fd%3A0xa7265f258237e643!2sCasa%20Kapikua!5e0!3m2!1sen!2sus!4v1762728210876!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+Si deseas salir con el grupo de la boda, el transporte saldrá del hotel Hilton Santa Marta (Pozos Colorados) hacia la playa de El Rodadero a las 12:00 p. m. el Sábado 6 de Diciembre. Abordaremos el Taximarino hacia Inca Inca aproximadamente a las 12:45 p. m.
 
 
 :::
 
+
+
+
+
+::: {.g-col-6}
+
+## ¿Qué pasa si no llego a El Rodadero antes de las 12:45 p. m.?
+
+No te preocupes — las lanchas de Taximarino salen de El Rodadero hacia Inca Inca cada 15 a 30 minutos. Tus nombres serán compartidos con el equipo de Taximarino, así que puedes llegar a Inca Inca en el momento que más te convenga. Solo menciona “evento post-boda de Andrea y Juan” al registrarte. El Taximarino sale desde el muelle principal (Muelle Turístico de El Rodadero).
+
+Para quienes se reúnan con nosotros en El Rodadero, encuéntrennos aquí:
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6699.7732244962635!2d-74.21963936032128!3d11.09318715232791!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef457fd506e70fd%3A0xa7265f258237e643!2sCasa%20Kapikua!5e0!3m2!1sen!2sus!4v1762728210876!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+:::
 
 
 :::

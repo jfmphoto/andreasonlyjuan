@@ -324,8 +324,19 @@ A beach club located in Playa Inca Inca. Playa Inca Inca is a small, secluded be
 
 ::: {.g-col-6}
 
+## *What are the hours of the event?*
+
+The post-wedding beach event kicks off at 1 PM with a private catamaran taking guests back at 6 PM from Inca Inca beach and dropping off at El Rodadero. If guests wish to leave before, you can arrange transportation from there. Transportation round trip will be provided back to the Hilton Santa Marta hotel at specific times.   
+
+
+:::
+
+
+::: {.g-col-6}
+
 ## *What is the attire for the beach club?*
-The attire is beach informal. We highly recommend to bring your swimsuits! This is one of Santa Marta’s best semi-private beaches ideal for swimming and laying out on the sand, if that’s what you wish. 
+The attire is beach wear. We highly recommend to bring your swimsuits! This is one of Santa Marta’s best semi-private beaches ideal for swimming and laying out on the sand, if that’s what you wish. 
+
 
 :::
 
@@ -335,10 +346,11 @@ The attire is beach informal. We highly recommend to bring your swimsuits! This 
 
 ## *How do we get there?*
 
-There are day-pass tours from Rodadero (meeting point Cra. 1 #7-69, El Rodadero). We are offering complimentary round-trip transportation from El Rodadero to Inca Inca via a pre-scheduled trip with Taximarino Travels. 
-
+There are day-pass tours from Rodadero (meeting point Cra. 1 #7-69, El Rodadero). We are offering complimentary round-trip transportation from the Hilton Santa Marta to El Rodadero (at 12:00 PM and 6 PM), and  complimentary round trip transportation to Inca Inca.
 
 :::
+
+
 
 ::: {.g-col-6}
 
@@ -351,27 +363,9 @@ Whether you’re up for a swim, some sun, or just relaxing by the beach, Inca In
 
 ::: {.g-col-6}
 
-## *What if I don't make it in time for the Taximarino?*
-
-No worries – there are plenty of vendors that provide transportation by boat. Head to the main pier (Muelle Turístico de El Rodadero) and ask for boats going to Playa Inca Inca. The cost is usually 10,000-20,000 COP (~ $2-5 USD) round trip. The trip is 5-10 minutes by water and run frequently. Please bring cash as card payments with beachside vendors are rare. 
-
-
-:::
-
-::: {.g-col-6}
-
 ## *Will there be food and bevarages?*
 
-Yes! The beach club has a full bar and a buffet menu for food. Card payments are acceptable.
-
-
-:::
-
-::: {.g-col-6}
-
-## *What are the hours of the event?*
-
-The farewell event is from 1-6PM with the Taximarino picking us up at XYZ. If guests would like to leave before, you can arrange transportation from there.
+Yes! The beach club has a full bar and a buffet menu. Card payments are acceptable.
 
 
 :::
@@ -381,15 +375,30 @@ The farewell event is from 1-6PM with the Taximarino picking us up at XYZ. If gu
 
 ## *What time do I have to be there?*
 
-The shuttle will be departing from the Hilton Santa Marta (Pozos Colorados) to El Rodadero beach at noon on Saturday, December 6th. We will be boarding the Taximarino around 12:45 pm. 
+If you wish to leave with the wedding party, the shuttle will be departing from the Hilton Santa Marta (Pozos Colorados) to El Rodadero beach at 12:00 PM on Saturday, December 6th. We will be boarding the Taximarino to Inca Inca around 12:45 pm. 
+
+
+
+:::
+
+
+
+::: {.g-col-6}
+
+## *What if I don't make it to the Rodadero by 12:45 PM?*
+
+No worries — the Taximarino boats depart from Rodadero to Inca Inca every 15–30 minutes. Your names will be shared with the Taximarino team, so you can arrive at Inca Inca at any time that works best for you. Just mention “Andrea y Juan post-boda event” upon check-in. The Taximarino departs from the main pier (Muelle Turístico de El Rodadero).
 
 For those meeting us in El Rodadero, please find us here: 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6699.7732244962635!2d-74.21963936032128!3d11.09318715232791!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef457fd506e70fd%3A0xa7265f258237e643!2sCasa%20Kapikua!5e0!3m2!1sen!2sus!4v1762728210876!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-
 :::
+
+
+
+
  
 :::
 
